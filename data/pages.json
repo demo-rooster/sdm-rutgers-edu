@@ -2,7 +2,7 @@
   "Home": [
     {
       "acf_fc_layout": "hero",
-      "title": "Tyska Alexander Orthodontics",
+      "title": "Rutgers School of Dental Medicine",
       "text": "",
       "button": {
         "type": "nuxt",
@@ -19,9 +19,9 @@
       },
       "media_type": "image",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/211023264_Portrait_Of_Smiling_Male_And_Female_Dentists_At_Cl.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/211023264_Portrait_Of_Smiling_Male_And_Female_Dentists_At_Cl.webp",
-        "alt": "Smiling patients and orthodontic team at Tyska Alexander Orthodontics",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/119614497_Mastering_their_skills_of_future_dentists.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/119614497_Mastering_their_skills_of_future_dentists.webp",
+        "alt": "Rutgers School of Dental Medicine — caring clinicians and students providing patient care",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -29,9 +29,7 @@
         "objectPosition": "center",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Home Hero"
-        }
+        "image_selection_hints": null
       },
       "video": {
         "src": "",
@@ -42,13 +40,13 @@
     },
     {
       "acf_fc_layout": "block_text_fh",
-      "title": "Welcome to Tyska Alexander Orthodontics",
+      "title": "Welcome to Rutgers School of Dental Medicine",
       "paragraphs": [
         {
-          "text": "Having a beautiful smile increases your self‑esteem and the confidence with which you move through the world. Dr. Edwin Tyska and Dr. Kristen Alexander excel at creating incredible smiles that are healthy and becoming. Our doctors consult together when designing treatment plans so you benefit from multiple experienced specialists and a customized approach."
+          "text": "We are New Jersey’s only dental school and the state’s largest provider of oral healthcare. We educate the next generation of practitioners, conduct pioneering research, and treat patients in New Jersey and around the world."
         },
         {
-          "text": "We have an experienced, compassionate team who will be by your side throughout care. From the first consultation through retention, we focus on clear communication, modern techniques, and a comfortable experience for patients of all ages."
+          "text": "Our students train on diverse and medically complex cases across specialties. The school emphasizes clinical excellence, research, and community programs that expand access to care."
         }
       ],
       "component_options": {
@@ -62,15 +60,15 @@
     },
     {
       "acf_fc_layout": "multi_item_row",
-      "title": "Why Choose Us",
+      "title": "Why Choose Rutgers SDM",
       "items": [
         {
-          "title": "Collaborative Care",
+          "title": "Only NJ Dental School",
           "icon": "people",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/99326519_Professional_dentist_office.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/99326519_Professional_dentist_office.webp",
-            "alt": "",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/104927348_We_promise_to_always_take_very_good_care_of_you.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/104927348_We_promise_to_always_take_very_good_care_of_you.webp",
+            "alt": "Clinical training and community denture program at Rutgers School of Dental Medicine",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -78,11 +76,9 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Experienced"
-            }
+            "image_selection_hints": null
           },
-          "text": "Treatment plans are developed with input from multiple experienced orthodontists, giving each patient the benefit of several specialists’ perspectives.",
+          "text": "As New Jersey’s only dental school, we offer unmatched clinical variety and complex case experience for students and patients.",
           "add_button": false,
           "button": {
             "button_type": "button",
@@ -94,12 +90,12 @@
           }
         },
         {
-          "title": "Customized Plans",
+          "title": "High Clinical Volume",
           "icon": "file-chart-tooth",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/312940249_Invisible_orthodontics_cosmetic_brackets_on_gradie.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/312940249_Invisible_orthodontics_cosmetic_brackets_on_gradie.webp",
-            "alt": "",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/16042402_opened_mouth_and_dentists_hands_with_instruments.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/16042402_opened_mouth_and_dentists_hands_with_instruments.webp",
+            "alt": "High patient volume and clinical training at Rutgers SDM",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -107,11 +103,9 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Better Care"
-            }
+            "image_selection_hints": null
           },
-          "text": "Every treatment plan is tailored to the patient’s needs, focusing on long‑term health and results that fit your lifestyle.",
+          "text": "Our high clinical volume gives students broad experience and patients access to comprehensive care across specialties.",
           "add_button": false,
           "button": {
             "button_type": "button",
@@ -123,12 +117,12 @@
           }
         },
         {
-          "title": "Advanced Technology",
+          "title": "Research & Innovation",
           "icon": "laptop-tooth",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/136172958_Girl_taking_digital_3D_panoramic_dental_x-ray.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/136172958_Girl_taking_digital_3D_panoramic_dental_x-ray.webp",
-            "alt": "",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/429080693_jaw_models_being_printed_in_resin_on_a_3d_printer.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/429080693_jaw_models_being_printed_in_resin_on_a_3d_printer.webp",
+            "alt": "Research and innovation at Rutgers School of Dental Medicine",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -136,11 +130,9 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Modern Equipment"
-            }
+            "image_selection_hints": null
           },
-          "text": "We use digital scanning and modern tools, and the doctors pursue ongoing education to expand treatment options and improve comfort.",
+          "text": "Funded research programs inform clinical practice and help us deliver care based on emerging science and technology.",
           "add_button": false,
           "button": {
             "button_type": "button",
@@ -152,12 +144,12 @@
           }
         },
         {
-          "title": "Friendly Team",
-          "icon": "thumbs-up-tooth",
+          "title": "Community Programs",
+          "icon": "schedule-tooth",
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/191531294_Medical_dentist_team_in_dental_office_discuss_abou.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/191531294_Medical_dentist_team_in_dental_office_discuss_abou.webp",
-            "alt": "",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/265958166_Group_of_medical_doctors_at_clinic_Unity_concept.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/265958166_Group_of_medical_doctors_at_clinic_Unity_concept.webp",
+            "alt": "Community outreach and pediatric care programs run by Rutgers SDM",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -165,11 +157,9 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Experienced"
-            }
+            "image_selection_hints": null
           },
-          "text": "Our patient‑focused staff provides compassionate support and clear guidance through every step of treatment.",
+          "text": "Outreach clinics, specialty services, and mission work expand access to care for seniors, veterans, children, and special-needs patients.",
           "add_button": false,
           "button": {
             "button_type": "button",
@@ -209,19 +199,19 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Meet Dr. Tyska",
+      "title": "Meet Dr. Kendal Major",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Edwin L. Tyska, DDS, enjoys orthodontics and serving patients in the Buffalo area. He emphasizes treating every patient as he would his own family and stays current through continuing education to deliver thoughtful, effective care."
+          "text": "Kendal Major is a periodontist and respected educator whose career spans clinical leadership and public service. Trained in RSDM’s residency program, he was the first periodontist in the Bahamas and later served in elected office. His combination of surgical skill, global perspective, and commitment to excellence guides the care and teaching he provides."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://www.taortho.com/assets/uploads/images/meet-dr-edwin-tyska.jpg",
-        "webp": "https://www.taortho.com/assets/uploads/images/meet-dr-edwin-tyska.jpg",
-        "alt": "Dr. Edwin Tyska, orthodontist at Tyska Alexander Orthodontics",
+        "src": "https://sdm.rutgers.edu/sites/default/files/attachments_files/kendal-major-mr-speaker.jpg",
+        "webp": "",
+        "alt": "Dr. Kendal Major, periodontist and faculty at Rutgers School of Dental Medicine",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -229,9 +219,7 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Experienced"
-        }
+        "image_selection_hints": null
       },
       "video": {
         "type": "embedded",
@@ -242,11 +230,11 @@
           "button": {
             "type": "nuxt",
             "style": "secondary",
-            "label": "Meet Dr. Tyska",
-            "aria_label": "Learn about Dr. Tyska",
+            "label": "Learn About Our Faculty",
+            "aria_label": "Learn about our faculty",
             "href": "",
             "path": "/about",
-            "hash": "#meet-dr-tyska",
+            "hash": "",
             "external": false,
             "include_icon": false,
             "icon": "pencil",
@@ -255,7 +243,7 @@
         }
       ],
       "component_options": {
-        "hash": "",
+        "hash": "#meet-kendal-major",
         "component_padding": "half",
         "component_margins": "none",
         "hide_component": false
@@ -266,30 +254,30 @@
       "is_dynamic": false,
       "use_video": false,
       "large_image": false,
-      "has_background": true,
+      "has_background": false,
       "background": "bg1",
       "linear_gradient": "",
       "add_texture": false,
-      "large_title": true,
+      "large_title": false,
       "title_color": "text",
       "title_underline_color": "primary",
       "preserve_image": true
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Meet Dr. Alexander",
+      "title": "Meet Dr. Daniel H. Fine",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Kristen M. Alexander, DDS, is a Buffalo native who brings a commitment to continuing education and the latest treatment options. She focuses on clear communication and delivering strong, lasting results for patients of all ages."
+          "text": "Dr. Daniel H. Fine is an oral biologist whose team has followed thousands of Newark children to study a rare, aggressive form of periodontitis. His research, supported by a major NIH grant, focuses on saliva biomarkers that may predict bone loss and improve early detection and prevention."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://www.taortho.com/assets/uploads/images/meet-dr-kristen-alexander.jpg",
-        "webp": "https://www.taortho.com/assets/uploads/images/meet-dr-kristen-alexander.jpg",
-        "alt": "Dr. Kristen Alexander, orthodontist at Tyska Alexander Orthodontics",
+        "src": "https://sdm.rutgers.edu/sites/default/files/attachments_files/140501_hamerman_285_0.jpg",
+        "webp": "",
+        "alt": "Dr. Daniel H. Fine, oral biologist and faculty at Rutgers School of Dental Medicine",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -297,9 +285,7 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Experienced"
-        }
+        "image_selection_hints": null
       },
       "video": {
         "type": "embedded",
@@ -310,20 +296,20 @@
           "button": {
             "type": "nuxt",
             "style": "secondary",
-            "label": "Meet Dr. Alexander",
-            "aria_label": "Learn about Dr. Alexander",
+            "label": "Research & Programs",
+            "aria_label": "Learn about research and programs",
             "href": "",
             "path": "/about",
-            "hash": "#meet-dr-tyska",
+            "hash": "#research",
             "external": false,
             "include_icon": false,
-            "icon": "pencil",
+            "icon": "linkedin",
             "color": "black"
           }
         }
       ],
       "component_options": {
-        "hash": "",
+        "hash": "#meet-daniel-fine",
         "component_padding": "half",
         "component_margins": "none",
         "hide_component": false
@@ -334,21 +320,514 @@
       "is_dynamic": false,
       "use_video": false,
       "large_image": false,
+      "has_background": false,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "primary",
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Meet Nina O'Connell",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Nina O'Connell appears in faculty and news features highlighting teaching and outreach. Her work exemplifies the school’s focus on community service, clinical instruction, and student mentorship."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/315070495_Photo_of_joyful_nice_woman_using_laptop_and_smilin.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/315070495_Photo_of_joyful_nice_woman_using_laptop_and_smilin.webp",
+        "alt": "Nina O'Connell featured in Rutgers School of Dental Medicine news",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [],
+      "component_options": {
+        "hash": "#meet-nina-oconnell",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": false,
+      "has_buttons": false,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
       "has_background": true,
       "background": "bg1",
       "linear_gradient": "",
       "add_texture": false,
-      "large_title": true,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "primary"
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Meet Dr. Elisa Velazquez",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Dr. Elisa Velazquez is a pediatric dentist and former RSDM resident whose practice emphasizes empathy, interdisciplinary care, and treatment for children with special needs. Her patient-focused approach grew from training at RSDM and continues through local pediatric practice leadership."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://sdm.rutgers.edu/sites/default/files/attachments_files/demetri.jpg",
+        "webp": "",
+        "alt": "Dr. Elisa Velazquez, pediatric dentist and RSDM alumna",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [],
+      "component_options": {
+        "hash": "#meet-elisa-velazquez",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": true,
+      "has_buttons": false,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "primary",
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Meet George McLaughlin",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "George McLaughlin, an associate clinical professor, brings decades of clinical experience and teaching to RSDM students. He emphasizes people skills alongside clinical competence to prepare students for successful careers."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/108634754_Careful_students_in_modern_dental_office.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/108634754_Careful_students_in_modern_dental_office.webp",
+        "alt": "George McLaughlin, associate clinical professor at Rutgers School of Dental Medicine",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [],
+      "component_options": {
+        "hash": "#meet-george-mclaughlin",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": false,
+      "has_buttons": false,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": false,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "primary"
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Meet Michael Mohr",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Michael Mohr combined a background in photography with dental training at RSDM, bringing empathy and strong patient communication to his clinical work. His experience shows how diverse backgrounds enrich patient care and education."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/220973040_Dentist_taking_picture_of_smilling_patient.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/220973040_Dentist_taking_picture_of_smilling_patient.webp",
+        "alt": "Michael Mohr, RSDM student featured in school stories",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [],
+      "component_options": {
+        "hash": "#meet-michael-mohr",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": true,
+      "has_buttons": false,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": false,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "primary"
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Meet Stephanie Pagin-Schmidt",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Student doctor Stephanie Pagin-Schmidt is highlighted for patient-centered care and dedication. Her attentive approach helped a patient overcome fear and complete restorative treatment with confidence."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/104746420_Happy_to_be_a_dentist.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/104746420_Happy_to_be_a_dentist.webp",
+        "alt": "Stephanie Pagin-Schmidt, student dentist at Rutgers School of Dental Medicine",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [],
+      "component_options": {
+        "hash": "#meet-stephanie-pagin-schmidt",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": false,
+      "has_buttons": false,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "primary"
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Meet Dean Cecile A. Feldman",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Dean Cecile A. Feldman is an advocate for student debt relief and access to care. Her leadership at RSDM focuses on policy, education, and initiatives that help graduates serve the underserved."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/325115121_Health_Insurance_Concept.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/325115121_Health_Insurance_Concept.webp",
+        "alt": "Dean Cecile A. Feldman, Rutgers School of Dental Medicine",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [],
+      "component_options": {
+        "hash": "#meet-cecile-feldman",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": true,
+      "has_buttons": false,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": false,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "primary"
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Meet Dr. Martin Nweeia",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Dr. Martin Nweeia blends dental science with marine mammal biology. His research on narwhal tusks illustrates the breadth of scholarship at RSDM and the school’s commitment to interdisciplinary inquiry."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://sdm.rutgers.edu/sites/default/files/attachments_files/nweeia-narwal-tusks-610.jpg",
+        "webp": "",
+        "alt": "Dr. Martin Nweeia speaking about narwhal research and dental science",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [],
+      "component_options": {
+        "hash": "#meet-martin-nweeia",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": false,
+      "has_buttons": false,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "primary",
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Meet Louis DiPede",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Dr. Louis DiPede’s work highlights global exchange programs and broad clinical training. Faculty like Dr. DiPede help students prepare for diverse practice environments and collaborative care."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/35296678_Young_female_patient_takes_a_dental_attendance.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/35296678_Young_female_patient_takes_a_dental_attendance.webp",
+        "alt": "Dr. Louis DiPede featured in Rutgers School of Dental Medicine stories",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [],
+      "component_options": {
+        "hash": "#meet-louis-dipede",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": true,
+      "has_buttons": false,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": false,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "primary"
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Meet William Cinotti",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "William Cinotti helped establish CODE clinics and was a mentor to students and alumni. His legacy of service and scholarship remains central to RSDM’s mission to train clinicians who serve their communities."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/208210720_Portrait_of_joyful_satisfied_girl_gesturing_her_be.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/208210720_Portrait_of_joyful_satisfied_girl_gesturing_her_be.webp",
+        "alt": "William Cinotti, Rutgers School of Dental Medicine leader and mentor",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [],
+      "component_options": {
+        "hash": "#meet-william-cinotti",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": false,
+      "has_buttons": false,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": false,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "primary"
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Meet Dr. Rosa Chaviano",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Dr. Rosa Chaviano leads cultural competency and communication training at RSDM. She teaches students to reflect on assumptions and improve patient care by understanding diverse backgrounds and needs."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://sdm.rutgers.edu/sites/default/files/attachments_files/boyinchair4-e1416003421283.jpg",
+        "webp": "",
+        "alt": "Dr. Rosa Chaviano, assistant dean and faculty at Rutgers School of Dental Medicine",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [],
+      "component_options": {
+        "hash": "#meet-rosa-chaviano",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": true,
+      "has_buttons": false,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
       "title_color": "text",
       "title_underline_color": "primary",
       "preserve_image": true
     },
     {
       "acf_fc_layout": "block_masonary_grid",
-      "title": "Explore Our Treatments",
+      "title": "Treatments & Programs",
       "paragraphs": [
         {
-          "text": "We offer a full range of orthodontic services, from discreet clear aligners to fixed braces and retainers, plus digital scanning for a comfortable, accurate fit."
+          "text": "From restorative dentures and prosthodontics to complex orthodontics, periodontal surgery, and pediatric specialty care, our clinics provide a wide range of services delivered by supervised student clinicians and faculty."
         }
       ],
       "button": {
@@ -369,9 +848,9 @@
       "items": [
         {
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/127410354_Invisible_aligners_plastic_braces_dentistry.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/127410354_Invisible_aligners_plastic_braces_dentistry.webp",
-            "alt": "Patient holding Invisalign aligners",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/111257944_dental_prosthesis_work.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/111257944_dental_prosthesis_work.webp",
+            "alt": "Dentures and prosthodontic services at Rutgers School of Dental Medicine",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -379,19 +858,17 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Treatments Hero"
-            }
+            "image_selection_hints": null
           },
-          "title": "Invisalign<sup>®</sup>",
+          "title": "Dentures",
           "path": "/treatments",
-          "hash": "#invisalign"
+          "hash": "#dentures"
         },
         {
           "image": {
             "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/25182244_Pretty_girl_wearing_braces_smiling_cheerfully.jpg",
             "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/25182244_Pretty_girl_wearing_braces_smiling_cheerfully.webp",
-            "alt": "Patient smiling with ceramic braces",
+            "alt": "Orthodontics, braces and complex case care at Rutgers SDM",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -399,19 +876,17 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Treatments Hero"
-            }
+            "image_selection_hints": null
           },
-          "title": "Clear & Metal Braces",
+          "title": "Orthodontics",
           "path": "/treatments",
-          "hash": "#braces"
+          "hash": "#orthodontics"
         },
         {
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/56159139_hands_holding_retainer_for_teeth_and_tooth_tray.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/56159139_hands_holding_retainer_for_teeth_and_tooth_tray.webp",
-            "alt": "Various orthodontic retainers displayed",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/325836154_Rear_view_of_man_and_dentist_in_dental_surgery_ann.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/325836154_Rear_view_of_man_and_dentist_in_dental_surgery_ann.webp",
+            "alt": "Periodontal surgery and advanced periodontal care training at Rutgers SDM",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -419,19 +894,17 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Treatments Hero"
-            }
+            "image_selection_hints": null
           },
-          "title": "Retainers",
+          "title": "LANAP",
           "path": "/treatments",
-          "hash": "#retainers"
+          "hash": "#lanap"
         },
         {
           "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/271991695_Young_woman_ready_to_computer_3d_tomography_of_tee.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/271991695_Young_woman_ready_to_computer_3d_tomography_of_tee.webp",
-            "alt": "Digital scanning equipment used for orthodontic impressions",
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/141940695_Young_boy_looking_at_the_mirror_with_toothy_smile.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/141940695_Young_boy_looking_at_the_mirror_with_toothy_smile.webp",
+            "alt": "Pediatric dental care and cleft palate outreach from Rutgers SDM",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -439,13 +912,11 @@
             "objectPosition": "",
             "forceAlt": "",
             "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Modern Equipment"
-            }
+            "image_selection_hints": null
           },
-          "title": "Digital Scanning",
+          "title": "Pediatric Care",
           "path": "/treatments",
-          "hash": "#advanced-technology"
+          "hash": "#pediatric-care"
         }
       ],
       "component_options": {
@@ -458,17 +929,42 @@
       "reverse_row": false
     },
     {
+      "acf_fc_layout": "multi_item_testimonial",
+      "title": "Patient Stories",
+      "review_text": "Read More Reviews",
+      "links": [],
+      "testimonials": [
+        {
+          "author": "Helen Mason",
+          "testimonial": "“I love my dentures and it would have been a hardship for me to afford them. They are a big improvement in my life.”"
+        },
+        {
+          "author": "Deborah Bishop",
+          "testimonial": "“Dr. Stephanie is one of the most professional, astute, knowledgeable, kind and caring people that I have met in a long time.”"
+        },
+        {
+          "author": "Glenn Ford",
+          "testimonial": "Glenn Ford received comprehensive care through the Vet Smiles Program and regained function and confidence after extensive tooth loss."
+        }
+      ],
+      "component_options": {
+        "hash": "",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "has_background": true,
+      "background": "bg2",
+      "linear_gradient": ""
+    },
+    {
       "acf_fc_layout": "multi_use_banner",
-      "title": "Follow Us on Social Media",
+      "title": "Watch Rutgers SDM",
       "content_block": "social_block",
       "text": "",
       "social_links": [
         {
-          "href": "https://search.google.com/local/reviews?placeid=ChIJZ1_LMkCe04kRl1Rvwwr8foM",
-          "icon": "facebook"
-        },
-        {
-          "href": "https://www.youtube.com/channel/UC1pgQhnbNQ7Mf0xFm_2KF-g",
+          "href": "https://www.youtube.com/watch?v=F7ncVJ_knvY",
           "icon": "youtube"
         }
       ],
@@ -497,9 +993,9 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/391155843_Group_of_young_people_using_and_looking_at_mobile.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/391155843_Group_of_young_people_using_and_looking_at_mobile.webp",
-        "alt": "Parents with kids relaxing in front of home",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/428160410_Group_brainstorming_online_meeting_distance_learni.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/428160410_Group_brainstorming_online_meeting_distance_learni.webp",
+        "alt": "Rutgers SDM video and media highlights",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -507,9 +1003,7 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Community"
-        }
+        "image_selection_hints": null
       },
       "reversed": false,
       "centered": false,
@@ -518,7 +1012,7 @@
     },
     {
       "acf_fc_layout": "multi_use_banner",
-      "title": "Ready to get started?",
+      "title": "Schedule an Appointment",
       "content_block": "text_block",
       "text": "",
       "social_links": [],
@@ -547,9 +1041,9 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/48850703_Teenage_girl_happy_to_visit_the_dentist.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/48850703_Teenage_girl_happy_to_visit_the_dentist.webp",
-        "alt": "Enjoying time together",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/99326519_Professional_dentist_office.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/99326519_Professional_dentist_office.webp",
+        "alt": "Schedule an appointment at Rutgers School of Dental Medicine clinics",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -557,9 +1051,7 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "New Patients Hero"
-        }
+        "image_selection_hints": null
       },
       "reversed": false,
       "centered": true,
@@ -568,15 +1060,15 @@
     },
     {
       "seo": {
-        "page_title": "Home - Tyska Alexander Orthodontics",
-        "page_description": "Tyska Alexander Orthodontics provides personalized orthodontic care in Clarence and Tonawanda, NY, offering Invisalign®, braces, retainers, and digital scanning",
-        "page_keywords": "orthodontics, Invisalign, braces, retainers, digital scanning, Tyska Alexander, Clarence, Tonawanda",
+        "page_title": "Home - Rutgers School of Dental Medicine",
+        "page_description": "Rutgers School of Dental Medicine provides clinical care, research, and community programs across specialties. Learn about services, faculty, and how to make an",
+        "page_keywords": "dental school, Rutgers, dentistry, orthodontics, pediatrics, prosthodontics, research, community dental care, Rutgers SDM",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "Home - Tyska Alexander Orthodontics",
-            "description": "Personalized orthodontic care in Clarence and Tonawanda, NY — Invisalign®, braces, retainers, and modern digital scanning.",
-            "image": "https://www.taortho.com/assets/images/slideshow/slide1.jpg"
+            "title": "Rutgers School of Dental Medicine",
+            "description": "Rutgers School of Dental Medicine provides clinical care, research, and community programs across specialties.",
+            "image": "https://sdm.rutgers.edu/sites/default/files/styles/16x9_one_third_default_1x/public/2025-11/non-prescription-pain-meds-work-equally-well-men-and-women-after-tooth-extraction.jpeg?h=4c055f45&itok=urnh4WNT"
           }
         }
       }
@@ -595,16 +1087,16 @@
         "href": "",
         "path": "/contact",
         "hash": "#form",
-        "external": false,
+        "external": true,
         "include_icon": false,
         "icon": "pencil",
-        "color": "primary"
+        "color": "black"
       },
       "media_type": "image",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/239725802_group_of_professional_doctors.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/239725802_group_of_professional_doctors.webp",
-        "alt": "Team of orthodontic professionals smiling in the office lobby",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/191531294_Medical_dentist_team_in_dental_office_discuss_abou.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/191531294_Medical_dentist_team_in_dental_office_discuss_abou.webp",
+        "alt": "Team of dental and faculty professionals together in a bright clinical environment",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -626,10 +1118,13 @@
       "title": "Our Mission",
       "paragraphs": [
         {
-          "text": "We recognize that all of our patients are unique and deserve to receive orthodontic care that reflects their individual needs. Our experienced and talented team is committed to working with you and your family to create a comfortable, stress‑free, and rewarding orthodontic experience every time you visit our practice. We are pleased to welcome you and your family, and we look forward to working with you."
+          "text": "As the only dental school in New Jersey, we treat diverse and medically complex cases across specialties, learning beyond the textbook while delivering clinical expertise and patient-centered care. We emphasize teamwork, clinical excellence, and a welcoming environment that supports patients and trains future clinicians."
         },
         {
-          "text": "Having a beautiful smile increases your self‑esteem and the confidence with which you move through the world. Our doctors consult together when they design a treatment plan for each patient, so you benefit from multiple specialists collaborating on one customized plan tailored to your needs. With individualized attention to detail, our goal is to make your mouth healthy and your smile beautiful."
+          "text": "We strive to make care accessible and compassionate. Our faculty and students collaborate across disciplines to provide informed, modern treatment while preparing the next generation of dental professionals."
+        },
+        {
+          "text": "Through community outreach, global missions, and focused clinical programs, Rutgers School of Dental Medicine serves underserved populations and advances oral health through education, research, and service."
         }
       ],
       "component_options": {
@@ -642,17 +1137,17 @@
       "center_title": false,
       "one_column": false,
       "add_texture": false,
-      "background": "bg1",
+      "background": "bg2",
       "linear_gradient": ""
     },
     {
       "acf_fc_layout": "tabs",
-      "title": "Meet Dr. Tyska",
+      "title": "Meet Dr. Cecile Feldman",
       "paragraphs": [],
       "image": {
-        "src": "https://www.taortho.com/assets/uploads/images/meet-dr-edwin-tyska.jpg",
+        "src": "https://sdm.rutgers.edu/sites/default/files/attachments_files/deancrop1.jpg",
         "webp": "",
-        "alt": "Dr. Edwin L. Tyska",
+        "alt": "Dean Cecile A. Feldman",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -666,58 +1161,16 @@
       "buttons": [],
       "tabs": [
         {
-          "header": "Professional",
+          "header": "Profile",
           "paragraphs": [
             {
-              "text": "Following his postgraduate studies, Dr. Edwin L. Tyska began his career in private practice and later became a partner. He brings long‑standing clinical experience and a collaborative approach to each treatment plan."
+              "text": "Cecile A. Feldman, D.D.S., serves as Dean of Rutgers School of Dental Medicine and is an outspoken advocate on reducing student debt. Her work highlights how student indebtedness affects access to care and the dental workforce, arguing that manageable debt can enable more graduates to serve underserved communities."
             }
           ],
           "image": {
-            "src": "https://www.taortho.com/assets/uploads/images/meet-dr-edwin-tyska.jpg",
+            "src": "https://sdm.rutgers.edu/sites/default/files/attachments_files/deancrop1.jpg",
             "webp": "",
-            "alt": "Dr. Edwin L. Tyska in clinic",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          }
-        },
-        {
-          "header": "Continuing Education",
-          "paragraphs": [
-            {
-              "text": "Dr. Tyska and the doctors in the practice regularly participate in continuing education programs to stay current with treatment methods, materials, and the latest technology."
-            }
-          ],
-          "image": {
-            "src": "https://www.taortho.com/assets/uploads/images/meet-dr-edwin-tyska.jpg",
-            "webp": "",
-            "alt": "Dr. Tyska at a continuing education event",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          }
-        },
-        {
-          "header": "Outside the Office",
-          "paragraphs": [
-            {
-              "text": "A resident of East Amherst, Dr. Tyska is active with family life, coaches the Lou Gehrig Lasers travel girls’ softball league, enjoys golf, travel, and supporting the Buffalo Sabres."
-            }
-          ],
-          "image": {
-            "src": "https://www.taortho.com/assets/uploads/images/meet-dr-edwin-tyska.jpg",
-            "webp": "",
-            "alt": "Dr. Tyska supporting local youth sports",
+            "alt": "Dean Cecile A. Feldman",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -730,7 +1183,7 @@
         }
       ],
       "component_options": {
-        "hash": "meet-dr-tyska",
+        "hash": "meet-cecile-feldman",
         "component_padding": "full",
         "component_margins": "half",
         "hide_component": false
@@ -748,12 +1201,12 @@
     },
     {
       "acf_fc_layout": "tabs",
-      "title": "Meet Dr. Alexander",
+      "title": "Meet Dr. Andrew Sullivan",
       "paragraphs": [],
       "image": {
-        "src": "https://www.taortho.com/assets/uploads/images/meet-dr-kristen-alexander.jpg",
+        "src": "https://sdm.rutgers.edu/sites/default/files/styles/16x9_one_third_default_1x/public/2026-02/successful-faculty-training-program-returns.jpeg?h=08b866d1&itok=19Gc_9tb",
         "webp": "",
-        "alt": "Dr. Kristen M. Alexander",
+        "alt": "Faculty training program participants",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -770,55 +1223,13 @@
           "header": "Professional",
           "paragraphs": [
             {
-              "text": "Dr. Kristen M. Alexander maintains an active clinical practice and brings a patient‑centered approach to treatment, focusing on clear communication and individualized care."
+              "text": "Andrew Sullivan, D.D.S., serves as Interim Chair of Periodontics and has trained in periodontal laser surgery, including the LANAP protocol. His work includes adopting digital laser technologies to provide less invasive periodontal procedures and to improve patient outcomes."
             }
           ],
           "image": {
-            "src": "https://www.taortho.com/assets/uploads/images/meet-dr-kristen-alexander.jpg",
+            "src": "https://sdm.rutgers.edu/sites/default/files/styles/16x9_one_third_default_1x/public/2026-02/successful-faculty-training-program-returns.jpeg?h=08b866d1&itok=19Gc_9tb",
             "webp": "",
-            "alt": "Dr. Kristen M. Alexander in clinic",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          }
-        },
-        {
-          "header": "Affiliations & Education",
-          "paragraphs": [
-            {
-              "text": "Dr. Alexander regularly participates in continuing education and maintains professional affiliations with local and national dental and orthodontic organizations to ensure patients benefit from current best practices."
-            }
-          ],
-          "image": {
-            "src": "https://www.taortho.com/assets/uploads/images/meet-dr-kristen-alexander.jpg",
-            "webp": "",
-            "alt": "Professional affiliations",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          }
-        },
-        {
-          "header": "Personal",
-          "paragraphs": [
-            {
-              "text": "A Buffalo native, Dr. Alexander lives locally with her husband and children. She enjoys outdoor activities, travel, and cheering for local sports teams."
-            }
-          ],
-          "image": {
-            "src": "https://www.taortho.com/assets/uploads/images/meet-dr-kristen-alexander.jpg",
-            "webp": "",
-            "alt": "Dr. Alexander with family",
+            "alt": "LANAP training and faculty",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -831,7 +1242,727 @@
         }
       ],
       "component_options": {
-        "hash": "meet-dr-alexander",
+        "hash": "meet-andrew-sullivan",
+        "component_padding": "full",
+        "component_margins": "half",
+        "hide_component": false
+      },
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "reverse": true,
+      "is_dynamic": false,
+      "large_title": false,
+      "large_image": false,
+      "title_alt": true,
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "tabs",
+      "title": "Meet Dr. Thomas Cangialosi",
+      "paragraphs": [],
+      "image": {
+        "src": "https://sdm.rutgers.edu/sites/default/files/attachments_files/1-s2.0-S0889540614007264-gr12-e1417535526501.jpg",
+        "webp": "",
+        "alt": "Dr. Thomas J. Cangialosi",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "has_buttons": false,
+      "buttons": [],
+      "tabs": [
+        {
+          "header": "Profile",
+          "paragraphs": [
+            {
+              "text": "Thomas J. Cangialosi, D.D.S., chair of the Department of Orthodontics, is known for treating complex craniofacial cases. His care can include collaboration with oral surgeons, use of mini-implants, and multi-year coordinated treatment plans to restore function and appearance in severe cases."
+            },
+            {
+              "text": "One cited case involved treatment for Treacher Collins Syndrome, where combined surgical and orthodontic care dramatically improved speech, eating, and quality of life for the patient."
+            }
+          ],
+          "image": {
+            "src": "https://sdm.rutgers.edu/sites/default/files/attachments_files/1-s2.0-S0889540614007264-gr12-e1417535526501.jpg",
+            "webp": "",
+            "alt": "After treatment photo related to Dr. Cangialosi's case study",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "meet-thomas-cangialosi",
+        "component_padding": "full",
+        "component_margins": "half",
+        "hide_component": false
+      },
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "reverse": false,
+      "is_dynamic": false,
+      "large_title": false,
+      "large_image": false,
+      "title_alt": true,
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "tabs",
+      "title": "Meet Dr. Martin Nweeia",
+      "paragraphs": [],
+      "image": {
+        "src": "https://sdm.rutgers.edu/sites/default/files/attachments_files/nweeia-narwal-tusks-610.jpg",
+        "webp": "",
+        "alt": "Dr. Martin Nweeia",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "has_buttons": false,
+      "buttons": [],
+      "tabs": [
+        {
+          "header": "Profile",
+          "paragraphs": [
+            {
+              "text": "Martin Nweeia, D.M.D., D.D.S., is a clinician-scientist with interdisciplinary research interests, including marine-mammal biology. His profile highlights work that bridges clinical practice and scientific inquiry, bringing unique perspectives to dental research and education."
+            }
+          ],
+          "image": {
+            "src": "https://sdm.rutgers.edu/sites/default/files/attachments_files/nweeia-narwal-tusks-610.jpg",
+            "webp": "",
+            "alt": "Dr. Martin Nweeia and research imagery",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "meet-martin-nweeia",
+        "component_padding": "full",
+        "component_margins": "half",
+        "hide_component": false
+      },
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "reverse": true,
+      "is_dynamic": false,
+      "large_title": false,
+      "large_image": false,
+      "title_alt": true,
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "tabs",
+      "title": "Meet Dr. Kendal Major",
+      "paragraphs": [],
+      "image": {
+        "src": "https://sdm.rutgers.edu/sites/default/files/attachments_files/kendal-major-mr-speaker.jpg",
+        "webp": "",
+        "alt": "Kendal Major",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "has_buttons": false,
+      "buttons": [],
+      "tabs": [
+        {
+          "header": "Profile",
+          "paragraphs": [
+            {
+              "text": "Kendal Major trained in periodontics after earning his BA from Tuskegee University and studying at Howard University College of Dentistry. He returned to the Bahamas to open a practice and has combined clinical care with public service ambitions to uplift his community."
+            },
+            {
+              "text": "Major credits his training at Rutgers with shaping his professional standards of excellence and professionalism and remains committed to clinical care and community leadership."
+            }
+          ],
+          "image": {
+            "src": "https://sdm.rutgers.edu/sites/default/files/attachments_files/kendal-major-mr-speaker.jpg",
+            "webp": "",
+            "alt": "Kendal Major in ceremonial attire",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "meet-kendal-major",
+        "component_padding": "full",
+        "component_margins": "half",
+        "hide_component": false
+      },
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "reverse": false,
+      "is_dynamic": false,
+      "large_title": false,
+      "large_image": false,
+      "title_alt": true,
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "tabs",
+      "title": "Meet Dr. Elisa Velazquez",
+      "paragraphs": [],
+      "image": {
+        "src": "https://sdm.rutgers.edu/sites/default/files/attachments_files/demetri.jpg",
+        "webp": "",
+        "alt": "Elisa Velazquez at work",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "has_buttons": false,
+      "buttons": [],
+      "tabs": [
+        {
+          "header": "Profile",
+          "paragraphs": [
+            {
+              "text": "Elisa Velazquez, RSDM alumna, co-owns Ocean Pediatric Dental Associates and completed a pediatric residency at RSDM. She emphasizes empathy, interdisciplinary collaboration, and specialized care for children, including those with special needs."
+            },
+            {
+              "text": "Velazquez serves as staff dentist for Children’s Specialized Hospital and is vice-president of the New Jersey Academy of Pediatric Dentistry, applying her training to clinical practice and community leadership."
+            }
+          ],
+          "image": {
+            "src": "https://sdm.rutgers.edu/sites/default/files/attachments_files/demetri.jpg",
+            "webp": "",
+            "alt": "Elisa Velazquez in practice",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "meet-elisa-velazquez",
+        "component_padding": "full",
+        "component_margins": "half",
+        "hide_component": false
+      },
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "reverse": true,
+      "is_dynamic": false,
+      "large_title": false,
+      "large_image": false,
+      "title_alt": true,
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "tabs",
+      "title": "Meet Dr. Shahid Aziz",
+      "paragraphs": [],
+      "image": {
+        "src": "https://sdm.rutgers.edu/sites/default/files/attachments_files/IMG_0005-e1417471851228.jpg",
+        "webp": "",
+        "alt": "Clinical surgery team image",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "has_buttons": false,
+      "buttons": [],
+      "tabs": [
+        {
+          "header": "Clinical Work",
+          "paragraphs": [
+            {
+              "text": "Shahid Aziz performs cleft lip and palate surgeries through twice-yearly mission trips, helping more than 1,000 patients from Bangladesh and forming his own non-profit, Smile Bangladesh. His work restores function and social opportunity for patients who otherwise lack access to care."
+            },
+            {
+              "text": "Aziz collaborates with residents and organizations like Smile Train to deliver life-changing reconstructive surgeries in resource-limited settings."
+            }
+          ],
+          "image": {
+            "src": "https://sdm.rutgers.edu/sites/default/files/attachments_files/IMG_0005-e1417471851228.jpg",
+            "webp": "",
+            "alt": "Surgical mission clinical scene",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "meet-shahid-aziz",
+        "component_padding": "full",
+        "component_margins": "half",
+        "hide_component": false
+      },
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "reverse": false,
+      "is_dynamic": false,
+      "large_title": false,
+      "large_image": false,
+      "title_alt": true,
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "tabs",
+      "title": "Meet Dr. Shenjunti Choudhary",
+      "paragraphs": [],
+      "image": {
+        "src": "https://sdm.rutgers.edu/sites/default/files/attachments_files/photo-1.jpg",
+        "webp": "",
+        "alt": "Orthodontics resident clinical image",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "has_buttons": false,
+      "buttons": [],
+      "tabs": [
+        {
+          "header": "Background",
+          "paragraphs": [
+            {
+              "text": "Shenjunti Choudhary, an orthodontics resident born in Bangladesh with a cleft palate repaired on a mission trip, was inspired by that experience to pursue orthodontics. Her journey highlights how outreach programs change lives and motivate future clinicians."
+            }
+          ],
+          "image": {
+            "src": "https://sdm.rutgers.edu/sites/default/files/attachments_files/photo-1.jpg",
+            "webp": "",
+            "alt": "Orthodontic resident in clinic",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "meet-shenjunti-choudhary",
+        "component_padding": "full",
+        "component_margins": "half",
+        "hide_component": false
+      },
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "reverse": true,
+      "is_dynamic": false,
+      "large_title": false,
+      "large_image": false,
+      "title_alt": true,
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "tabs",
+      "title": "Meet Dr. George McLaughlin",
+      "paragraphs": [],
+      "image": {
+        "src": "https://sdm.rutgers.edu/sites/default/files/attachments_files/richard-barber-and-george-mclaughlinjpg-fb8a361db2166cd1_large.jpg",
+        "webp": "",
+        "alt": "George McLaughlin",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "has_buttons": false,
+      "buttons": [],
+      "tabs": [
+        {
+          "header": "Profile",
+          "paragraphs": [
+            {
+              "text": "George McLaughlin, associate clinical professor in Restorative Dentistry, has a background in engineering and a long career in dentistry and teaching. He emphasizes people skills and professionalism, and has been active in civil rights and community advocacy throughout his life."
+            }
+          ],
+          "image": {
+            "src": "https://sdm.rutgers.edu/sites/default/files/attachments_files/richard-barber-and-george-mclaughlinjpg-fb8a361db2166cd1_large.jpg",
+            "webp": "",
+            "alt": "George McLaughlin with colleagues",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "meet-george-mclaughlin",
+        "component_padding": "full",
+        "component_margins": "half",
+        "hide_component": false
+      },
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "reverse": false,
+      "is_dynamic": false,
+      "large_title": false,
+      "large_image": false,
+      "title_alt": true,
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "tabs",
+      "title": "Meet Dr. Stephanie Pagin‑Schmidt",
+      "paragraphs": [],
+      "image": {
+        "src": "https://sdm.rutgers.edu/sites/default/files/attachments_files/image1-3.jpg",
+        "webp": "",
+        "alt": "Stephanie Pagin-Schmidt",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "has_buttons": false,
+      "buttons": [],
+      "tabs": [
+        {
+          "header": "Student Doctor",
+          "paragraphs": [
+            {
+              "text": "Student Doctor Stephanie Pagin‑Schmidt served at the CODE center in Pomona, providing compassionate denture care to underserved patients. Her dedication included multiple long trips to complete a patient's treatment, demonstrating commitment to continuity of care and patient comfort."
+            }
+          ],
+          "image": {
+            "src": "https://sdm.rutgers.edu/sites/default/files/attachments_files/image1-3.jpg",
+            "webp": "",
+            "alt": "Student doctor with patient",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "meet-stephanie-pagin-schmidt",
+        "component_padding": "full",
+        "component_margins": "half",
+        "hide_component": false
+      },
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "reverse": true,
+      "is_dynamic": false,
+      "large_title": false,
+      "large_image": false,
+      "title_alt": true,
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "tabs",
+      "title": "Meet Dr. Daniel H. Fine",
+      "paragraphs": [],
+      "image": {
+        "src": "https://sdm.rutgers.edu/sites/default/files/attachments_files/140501_hamerman_285_0.jpg",
+        "webp": "",
+        "alt": "Dr. Daniel H. Fine",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "has_buttons": false,
+      "buttons": [],
+      "tabs": [
+        {
+          "header": "Research",
+          "paragraphs": [
+            {
+              "text": "Oral biologist Daniel H. Fine has led longitudinal research tracking adolescents for periodontal disease progression, improving understanding of localized aggressive periodontitis and informing preventive and clinical strategies."
+            }
+          ],
+          "image": {
+            "src": "https://sdm.rutgers.edu/sites/default/files/attachments_files/140501_hamerman_285_0.jpg",
+            "webp": "",
+            "alt": "Dr. Daniel H. Fine in research context",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "meet-daniel-fine",
+        "component_padding": "full",
+        "component_margins": "half",
+        "hide_component": false
+      },
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "reverse": false,
+      "is_dynamic": false,
+      "large_title": false,
+      "large_image": false,
+      "title_alt": true,
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "tabs",
+      "title": "Meet Dr. Rosa Chaviano",
+      "paragraphs": [],
+      "image": {
+        "src": "https://sdm.rutgers.edu/sites/default/files/attachments_files/boyinchair4-e1416003421283.jpg",
+        "webp": "",
+        "alt": "Dr. Rosa Chaviano",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "has_buttons": false,
+      "buttons": [],
+      "tabs": [
+        {
+          "header": "Cultural Competency",
+          "paragraphs": [
+            {
+              "text": "Rosa Chaviano, assistant dean of Student Admissions and Recruitment, emphasizes cultural competency in healthcare, guiding students and faculty to examine assumptions and improve communication with patients from diverse backgrounds."
+            }
+          ],
+          "image": {
+            "src": "https://sdm.rutgers.edu/sites/default/files/attachments_files/boyinchair4-e1416003421283.jpg",
+            "webp": "",
+            "alt": "Cultural competency in clinical education",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "meet-rosa-chaviano",
+        "component_padding": "full",
+        "component_margins": "half",
+        "hide_component": false
+      },
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "reverse": true,
+      "is_dynamic": false,
+      "large_title": false,
+      "large_image": false,
+      "title_alt": true,
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "tabs",
+      "title": "Meet Dr. Harry Zohn",
+      "paragraphs": [],
+      "image": {
+        "src": "https://sdm.rutgers.edu/sites/default/files/attachments_files/Dr_Zohn_4.jpg",
+        "webp": "",
+        "alt": "Dr. Harry Zohn",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "has_buttons": false,
+      "buttons": [],
+      "tabs": [
+        {
+          "header": "Forensics",
+          "paragraphs": [
+            {
+              "text": "Dr. Harry Zohn teaches forensic dentistry at RSDM and has focused on how dental identification practices evolved after major disasters, expanding course access to dental professionals and disaster response teams."
+            }
+          ],
+          "image": {
+            "src": "https://sdm.rutgers.edu/sites/default/files/attachments_files/Dr_Zohn_4.jpg",
+            "webp": "",
+            "alt": "Dr. Harry Zohn teaching forensic dentistry",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "meet-harry-zohn",
+        "component_padding": "full",
+        "component_margins": "half",
+        "hide_component": false
+      },
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "reverse": false,
+      "is_dynamic": false,
+      "large_title": false,
+      "large_image": false,
+      "title_alt": true,
+      "preserve_image": true
+    },
+    {
+      "acf_fc_layout": "tabs",
+      "title": "Meet Dr. Christopher Hughes",
+      "paragraphs": [],
+      "image": {
+        "src": "https://sdm.rutgers.edu/sites/default/files/attachments_files/10835462_1560222404248901_5891833157899608018_o.jpg",
+        "webp": "",
+        "alt": "Christopher Hughes with students in Tanzania",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "has_buttons": false,
+      "buttons": [],
+      "tabs": [
+        {
+          "header": "Global Health",
+          "paragraphs": [
+            {
+              "text": "Christopher Hughes, chair of Pediatric Dentistry, has participated in international teaching and service work, including visits to Tanzania to train local clinicians and improve preventive dental care through education and hands-on training."
+            }
+          ],
+          "image": {
+            "src": "https://sdm.rutgers.edu/sites/default/files/attachments_files/10835462_1560222404248901_5891833157899608018_o.jpg",
+            "webp": "",
+            "alt": "Dr. Hughes teaching abroad",
+            "aria_hidden": false,
+            "bgColor": "",
+            "imageBackground": false,
+            "addLoader": false,
+            "objectPosition": "",
+            "forceAlt": "",
+            "loading_mask": "",
+            "image_selection_hints": null
+          }
+        }
+      ],
+      "component_options": {
+        "hash": "meet-christopher-hughes",
         "component_padding": "full",
         "component_margins": "half",
         "hide_component": false
@@ -852,13 +1983,13 @@
       "title": "Meet the Team",
       "items": [
         {
-          "name": "Jeanette",
-          "position": "Practice Administrator & Financial Coordinator",
-          "bio": "Practice Administrator and financial coordinator supporting patient care and billing.",
+          "name": "Tishana Foster",
+          "position": "Class of 2025",
+          "bio": "Student and testimonial contributor illustrating RSDM’s collaborative culture and patient-centered training.",
           "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/Jeanette.jpg",
+            "src": "https://sdm.rutgers.edu/sites/default/files/styles/4x3_full_768_2x/public/2024-08/Untitled%20%2811%29.png?h=fbf4b26c&itok=GyFVqWDt",
             "webp": "",
-            "alt": "Jeanette, Practice Administrator",
+            "alt": "Tishana Foster",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -870,13 +2001,13 @@
           }
         },
         {
-          "name": "Stephanie",
-          "position": "Front Desk Coordinator",
-          "bio": "Front desk coordinator who greets patients and manages scheduling.",
+          "name": "Allison Striano",
+          "position": "Student",
+          "bio": "Student representative featured in RSDM community stories and events.",
           "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-119.jpg",
+            "src": "https://sdm.rutgers.edu/sites/default/files/attachments_files/11036449_1561902000747608_8025625353187189258_n.jpg",
             "webp": "",
-            "alt": "Stephanie, Front Desk Coordinator",
+            "alt": "Allison Striano",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -888,13 +2019,13 @@
           }
         },
         {
-          "name": "Kathie",
-          "position": "Front Desk Coordinator",
-          "bio": "Front desk coordinator assisting patients and phone inquiries.",
+          "name": "Carla Cugini",
+          "position": "Molecular Microbiologist",
+          "bio": "RSDM researcher focused on oral microbiology and translational research.",
           "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/Kathie.jpg",
+            "src": "https://sdm.rutgers.edu/sites/default/files/attachments_files/Cugini.jpg",
             "webp": "",
-            "alt": "Kathie, Front Desk Coordinator",
+            "alt": "Carla Cugini",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -906,13 +2037,13 @@
           }
         },
         {
-          "name": "Kristen",
-          "position": "Treatment Coordinator",
-          "bio": "Treatment coordinator who helps patients understand options and financial arrangements.",
+          "name": "Vijay Parashar",
+          "position": "Structural Biologist",
+          "bio": "Research faculty contributing to structural biology and dental science collaborations.",
           "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-099.jpg",
+            "src": "https://sdm.rutgers.edu/sites/default/files/attachments_files/Parashar.jpg",
             "webp": "",
-            "alt": "Kristen, Treatment Coordinator",
+            "alt": "Vijay Parashar",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -924,157 +2055,13 @@
           }
         },
         {
-          "name": "Heather",
-          "position": "Clinical Coordinator & Dental Assistant",
-          "bio": "Clinical coordinator and dental assistant supporting patient care.",
+          "name": "Student Doctor Stephanie Pagin‑Schmidt",
+          "position": "Student Doctor",
+          "bio": "Student clinician known for dedication to underserved patients and continuity of care.",
           "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/Heather.jpg",
+            "src": "https://sdm.rutgers.edu/sites/default/files/attachments_files/image1-3.jpg",
             "webp": "",
-            "alt": "Heather, Clinical Coordinator",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          }
-        },
-        {
-          "name": "Torrie",
-          "position": "Dental Hygienist / Assistant",
-          "bio": "Dental hygienist and assistant providing clinical support.",
-          "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/Torrie.jpg",
-            "webp": "",
-            "alt": "Torrie, Dental Hygienist",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          }
-        },
-        {
-          "name": "Alissa",
-          "position": "Dental Assistant",
-          "bio": "Dental assistant who works chairside to support treatments.",
-          "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-088.jpg",
-            "webp": "",
-            "alt": "Alissa, Dental Assistant",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          }
-        },
-        {
-          "name": "Rachel",
-          "position": "Financial Coordinator & Assistant Practice Administrator",
-          "bio": "Financial coordinator assisting with insurance and billing in Tonawanda.",
-          "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-38.jpg",
-            "webp": "",
-            "alt": "Rachel, Financial Coordinator",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          }
-        },
-        {
-          "name": "Tammy",
-          "position": "Treatment Coordinator",
-          "bio": "Treatment coordinator supporting patient care at Tonawanda.",
-          "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-44.jpg",
-            "webp": "",
-            "alt": "Tammy, Treatment Coordinator",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          }
-        },
-        {
-          "name": "Courtney",
-          "position": "Front Desk Coordinator",
-          "bio": "Front desk coordinator welcoming patients at Tonawanda.",
-          "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-18.jpg",
-            "webp": "",
-            "alt": "Courtney, Front Desk Coordinator",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          }
-        },
-        {
-          "name": "Rose",
-          "position": "Clinical Coordinator & Dental Assistant",
-          "bio": "Clinical coordinator providing chairside assistance and patient support.",
-          "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/Rose%20V.jpg",
-            "webp": "",
-            "alt": "Rose, Clinical Coordinator",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          }
-        },
-        {
-          "name": "Kim",
-          "position": "Dental Assistant",
-          "bio": "Dental assistant supporting clinical procedures.",
-          "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/Kim.jpg",
-            "webp": "",
-            "alt": "Kim, Dental Assistant",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": null
-          }
-        },
-        {
-          "name": "Paige",
-          "position": "Dental Assistant",
-          "bio": "Dental assistant who assists with patient care and treatment setup.",
-          "image": {
-            "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/TyskaAlexander-10.jpg",
-            "webp": "",
-            "alt": "Paige, Dental Assistant",
+            "alt": "Stephanie Pagin-Schmidt",
             "aria_hidden": false,
             "bgColor": "",
             "imageBackground": false,
@@ -1095,20 +2082,20 @@
       "has_bio": true,
       "large_title": false,
       "center_title": false,
-      "background": "bg1",
+      "background": "bg2",
       "add_texture": false,
       "linear_gradient": "",
       "preserve_image": true
     },
     {
       "acf_fc_layout": "single_image_slider",
-      "title": "Office Tour",
+      "title": "Our Office",
       "carousel_aria": "Office Tour Carousel",
       "slides": [
         {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-180(1).jpg",
+          "src": "https://sdm.rutgers.edu/sites/default/files/styles/16x9_one_third_default_1x/public/2025-12/new-partnership-serves-kids-special-healthcare-needs.jpg?h=68785fb3&itok=6KrETRFF",
           "webp": "",
-          "alt": "Clarence office - waiting area",
+          "alt": "Waiting and clinic scene",
           "aria_hidden": false,
           "bgColor": "",
           "imageBackground": false,
@@ -1118,9 +2105,9 @@
           "loading_mask": "#eef6f8"
         },
         {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-183(1).jpg",
+          "src": "https://sdm.rutgers.edu/sites/default/files/styles/16x9_one_third_default_1x/public/2025-12/clinically-distinct-1.jpeg?h=becfff03&itok=jgxgtJgv",
           "webp": "",
-          "alt": "Clarence office - treatment room",
+          "alt": "Treatment room and clinical procedure",
           "aria_hidden": false,
           "bgColor": "",
           "imageBackground": false,
@@ -1130,129 +2117,9 @@
           "loading_mask": "#eef6f8"
         },
         {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-186(1).jpg",
+          "src": "https://sdm.rutgers.edu/sites/default/files/styles/16x9_full_768_2x/public/2022-06/140501_hamerman_907.jpg?h=6f8e8448&itok=BVulL3g3",
           "webp": "",
-          "alt": "Clarence office - operatory",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-177(1).jpg",
-          "webp": "",
-          "alt": "Clarence office - reception",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-167(1).jpg",
-          "webp": "",
-          "alt": "Clarence office - patient area",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-174(1).jpg",
-          "webp": "",
-          "alt": "Clarence office - equipment and sterilization area",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-370(1).jpg",
-          "webp": "",
-          "alt": "Tonawanda office - waiting area",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-374.jpg",
-          "webp": "",
-          "alt": "Tonawanda office - operatory",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-377(1).jpg",
-          "webp": "",
-          "alt": "Tonawanda office - treatment room",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-093(1).jpg",
-          "webp": "",
-          "alt": "Tonawanda office - staff area",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-090.jpg",
-          "webp": "",
-          "alt": "Tonawanda office - clinical space",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-115.jpg",
-          "webp": "",
-          "alt": "Tonawanda office - waiting and play area",
-          "aria_hidden": false,
-          "bgColor": "",
-          "imageBackground": false,
-          "addLoader": false,
-          "objectPosition": "",
-          "forceAlt": "",
-          "loading_mask": "#eef6f8"
-        },
-        {
-          "src": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/images/JessTrankleImages-085(1).jpg",
-          "webp": "",
-          "alt": "Tonawanda office - reception and staff",
+          "alt": "Building exterior and entrance",
           "aria_hidden": false,
           "bgColor": "",
           "imageBackground": false,
@@ -1281,19 +2148,176 @@
         {
           "has_heading": false,
           "heading": "",
-          "text": "Dr. Edwin Tyska is active in the local community as an assistant coach for the Lou Gehrig Lasers travel girls’ softball league and supports youth sports through local involvement."
+          "text": "Rutgers School of Dental Medicine engages locally and globally to improve access to care. Recent efforts include fundraising events such as the annual hockey match that raised funds for cancer support, and clinical outreach trips that provide cleft lip and palate repairs overseas, restoring function and social opportunity for patients in need."
         },
         {
           "has_heading": false,
           "heading": "",
-          "text": "Dr. Kristen Alexander participates in local activities and professional organizations; both doctors support community health through patient education and outreach."
+          "text": "These programs combine student training with service: faculty and residents lead missions, while students gain hands-on experience in culturally sensitive, high-impact care. Local initiatives also support low-income seniors and community clinics that expand preventive and restorative services."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/265652617_People_Donating_Food_To_Charity_Food_Bank_Collecti.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/265652617_People_Donating_Food_To_Charity_Food_Bank_Collecti.webp",
-        "alt": "Graphic representing community support and local involvement",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/225581787_Happy_friends_having_fun_drinking_wine_at_winery_v.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/225581787_Happy_friends_having_fun_drinking_wine_at_winery_v.webp",
+        "alt": "Graphic representing community support and outreach",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [],
+      "component_options": {
+        "hash": "",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": false,
+      "has_buttons": false,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": false,
+      "background": "bg2",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "none"
+    },
+    {
+      "acf_fc_layout": "multi_use_banner",
+      "title": "Schedule an Appointment",
+      "content_block": "text_block",
+      "text": "",
+      "social_links": [],
+      "email": "",
+      "button": {
+        "type": "nuxt",
+        "style": "primary",
+        "label": "Schedule Consultation",
+        "aria_label": "Schedule a consultation",
+        "href": "",
+        "path": "/contact",
+        "hash": "#form",
+        "external": false,
+        "include_icon": false,
+        "icon": "",
+        "color": ""
+      },
+      "component_options": {
+        "hash": "",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "background_type": "has_background",
+      "background": "bg2",
+      "add_texture": false,
+      "linear_gradient": "",
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/136172958_Girl_taking_digital_3D_panoramic_dental_x-ray.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/136172958_Girl_taking_digital_3D_panoramic_dental_x-ray.webp",
+        "alt": "Schedule an appointment at Rutgers School of Dental Medicine clinics",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "reversed": false,
+      "centered": true,
+      "large_title": true,
+      "text_color": "primary"
+    },
+    {
+      "seo": {
+        "page_title": "About | Rutgers School of Dental Medicine",
+        "page_description": "Learn about Rutgers School of Dental Medicine — our mission, faculty, community outreach, and clinical programs in New Jersey.",
+        "page_keywords": "Rutgers, Rutgers School of Dental Medicine, dental school, oral health, community outreach, dental research, clinical education",
+        "additional_settings": false,
+        "social_meta": {
+          "og_meta": {
+            "title": "About | Rutgers School of Dental Medicine",
+            "description": "Learn about Rutgers School of Dental Medicine — our mission, faculty, community outreach, and clinical programs in New Jersey.",
+            "image": "https://sdm.rutgers.edu/sites/default/files/styles/16x9_full_768_2x/public/2022-06/140501_hamerman_907.jpg?h=6f8e8448&itok=BVulL3g3"
+          }
+        }
+      }
+    }
+  ],
+  "Get Started": [
+    {
+      "acf_fc_layout": "hero",
+      "title": "Get Started",
+      "text": "",
+      "button": {
+        "type": "nuxt",
+        "style": "primary",
+        "label": "Schedule Consultation",
+        "aria_label": "Schedule a consultation",
+        "href": "",
+        "path": "/contact",
+        "hash": "#form",
+        "external": true,
+        "include_icon": false,
+        "icon": "pencil",
+        "color": "black"
+      },
+      "media_type": "image",
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/211023264_Portrait_Of_Smiling_Male_And_Female_Dentists_At_Cl.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/211023264_Portrait_Of_Smiling_Male_And_Female_Dentists_At_Cl.webp",
+        "alt": "Smiling family welcomed at Lakeshore Orthodontics front desk",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": null
+      },
+      "video": {
+        "src": "",
+        "webm": "",
+        "title": ""
+      },
+      "small": false
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "What to expect at your first visit",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Your first visit starts with a friendly welcome and a chance to meet our team. We will review your health history, take any needed X-rays or photos, and perform a complete orthodontic exam so we can evaluate your bite and discuss treatment options."
+        },
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "We take time to explain findings in plain language, outline recommended next steps, and answer questions about timing, comfort, and maintenance. Come prepared with your insurance card and any recent dental records to speed the process."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/84442233_Father_With_Daughter_At_Reception_Of_Dentists_Surg.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/84442233_Father_With_Daughter_At_Reception_Of_Dentists_Surg.webp",
+        "alt": "Father with daughter at reception of dentist's surgery",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1324,182 +2348,19 @@
       "background": "bg1",
       "linear_gradient": "",
       "add_texture": false,
-      "large_title": false,
-      "title_color": "text",
-      "title_underline_color": "none"
-    },
-    {
-      "acf_fc_layout": "multi_use_banner",
-      "title": "Ready to get started?",
-      "content_block": "text_block",
-      "text": "",
-      "social_links": [],
-      "email": "",
-      "button": {
-        "type": "nuxt",
-        "style": "primary",
-        "label": "Schedule Consultation",
-        "aria_label": "Schedule a consultation",
-        "href": "",
-        "path": "/contact",
-        "hash": "#form",
-        "external": false,
-        "include_icon": false,
-        "icon": "",
-        "color": ""
-      },
-      "component_options": {
-        "hash": "",
-        "component_padding": "half",
-        "component_margins": "none",
-        "hide_component": false
-      },
-      "background_type": "has_background",
-      "background": "bg2",
-      "add_texture": false,
-      "linear_gradient": "",
-      "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/158720629_Dentist_female_posing_at_consultation.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/158720629_Dentist_female_posing_at_consultation.webp",
-        "alt": "Enjoying time together",
-        "aria_hidden": false,
-        "bgColor": "",
-        "imageBackground": false,
-        "addLoader": false,
-        "objectPosition": "",
-        "forceAlt": "",
-        "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "New Patients Hero"
-        }
-      },
-      "reversed": false,
-      "centered": true,
-      "large_title": true,
-      "text_color": "primary"
-    },
-    {
-      "seo": {
-        "page_title": "About Us | Tyska & Alexander Orthodontics",
-        "page_description": "Learn about Dr. Edwin Tyska and Dr. Kristen Alexander, our team, and how we serve Clarence and Tonawanda with patient-focused orthodontic care.",
-        "page_keywords": "Orthodontics, Braces, Invisalign, Dr. Tyska, Dr. Alexander, TaOrtho",
-        "additional_settings": false,
-        "social_meta": {
-          "og_meta": {
-            "title": "About Us | Tyska & Alexander Orthodontics",
-            "description": "Meet our doctors and team serving Clarence and Tonawanda with modern, compassionate orthodontic care.",
-            "image": "https://www.taortho.com/assets/images/slideshow/slide1.jpg"
-          }
-        }
-      }
-    }
-  ],
-  "Get Started": [
-    {
-      "acf_fc_layout": "hero",
-      "title": "Get Started",
-      "text": "",
-      "button": {
-        "type": "nuxt",
-        "style": "primary",
-        "label": "Schedule Consultation",
-        "aria_label": "Schedule a consultation",
-        "href": "",
-        "path": "/contact",
-        "hash": "#form",
-        "external": false,
-        "include_icon": false,
-        "icon": "pencil",
-        "color": "black"
-      },
-      "media_type": "image",
-      "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/145673624_Happy_family_with_kids.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/145673624_Happy_family_with_kids.webp",
-        "alt": "Smiling family welcomed at Tyska Alexander Orthodontics front desk",
-        "aria_hidden": false,
-        "bgColor": "",
-        "imageBackground": false,
-        "addLoader": false,
-        "objectPosition": "",
-        "forceAlt": "",
-        "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "New Patients Hero"
-        }
-      },
-      "video": {
-        "src": "",
-        "webm": "",
-        "title": ""
-      },
-      "small": false
-    },
-    {
-      "acf_fc_layout": "image_text",
-      "title": "First Visit Expectations",
-      "paragraphs": [
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "Your initial consultation is where we learn about your concerns and evaluate your smile. You’ll meet our team and the doctor, we’ll review your dental and medical history, and perform a thorough oral exam to determine whether orthodontic treatment is recommended and which options may be right for you."
-        },
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "We’ll help you build a customized treatment plan and walk through financial options, insurance details, and payment plans. Please bring completed patient forms or plan to fill them out electronically, a photo ID, any insurance cards, and a list of current medications."
-        }
-      ],
-      "accordion": [],
-      "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/211787210_young_woman_dentist_performs_examination_of_patien.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/211787210_young_woman_dentist_performs_examination_of_patien.webp",
-        "alt": "Father with daughter at reception of dentist's surgery",
-        "aria_hidden": false,
-        "bgColor": "",
-        "imageBackground": false,
-        "addLoader": false,
-        "objectPosition": "",
-        "forceAlt": "",
-        "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Initial Visit"
-        }
-      },
-      "video": {
-        "type": "embedded",
-        "src": ""
-      },
-      "buttons": [],
-      "component_options": {
-        "hash": "",
-        "component_padding": "half",
-        "component_margins": "none",
-        "hide_component": false
-      },
-      "reverse": false,
-      "has_buttons": false,
-      "has_accordion": false,
-      "is_dynamic": false,
-      "use_video": false,
-      "large_image": false,
-      "has_background": false,
-      "background": "bg2",
-      "linear_gradient": "",
-      "add_texture": false,
       "large_title": true,
       "title_color": "text",
       "title_underline_color": "none"
     },
     {
       "acf_fc_layout": "block_text_simple",
-      "title": "Payment & Financial Info",
+      "title": "Financing & Insurance",
       "paragraphs": [
         {
-          "text": "We accept most major credit cards and can assist with insurance claims when orthodontic benefits apply, helping to reduce paperwork for you."
+          "text": "We accept many major insurance plans and will file claims electronically when possible to make your visit easier. Our team will verify benefits and explain coverage before any treatment begins."
         },
         {
-          "text": "Flexible financing and in-house payment plans are available to fit different budgets. Complimentary consultations are offered so you can meet our team, have photos taken, and review your treatment plan."
+          "text": "Flexible payment plans are available for every budget. Ask our treatment coordinator about interest-free options and special offers, including a complimentary consultation to review your personalized plan."
         }
       ],
       "component_options": {
@@ -1517,12 +2378,12 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "New Patient Forms",
+      "title": "New patient forms",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Complete forms online through our patient portal, or download and print the appropriate health history PDFs before your visit. If you have trouble opening PDFs, Adobe Reader is available for free."
+          "text": "To save time at your appointment, complete new patient forms in advance. We provide printable PDFs and an online intake option so you can choose the most convenient method for your family."
         }
       ],
       "accordion": [],
@@ -1537,9 +2398,7 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Initial Visit"
-        }
+        "image_selection_hints": null
       },
       "video": {
         "type": "embedded",
@@ -1550,9 +2409,24 @@
           "button": {
             "type": "anchor",
             "style": "secondary",
-            "label": "Online Patient Portal",
-            "aria_label": "online patient portal",
-            "href": "https://patient.sesamecommunications.com/mandtortho/index.html",
+            "label": "Printable Health History Form",
+            "aria_label": "printable health history form",
+            "href": "",
+            "path": "",
+            "hash": "",
+            "external": true,
+            "include_icon": false,
+            "icon": "pencil",
+            "color": "black"
+          }
+        },
+        {
+          "button": {
+            "type": "anchor",
+            "style": "secondary",
+            "label": "Online Intake Form",
+            "aria_label": "online intake form",
+            "href": "",
             "path": "",
             "hash": "",
             "external": true,
@@ -1565,29 +2439,14 @@
           "button": {
             "type": "anchor",
             "style": "secondary",
-            "label": "Patient Form (Child) PDF",
-            "aria_label": "patient form child pdf",
-            "href": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/files/health%20history(2).pdf",
+            "label": "Medical History Update",
+            "aria_label": "medical history update",
+            "href": "",
             "path": "",
             "hash": "",
             "external": true,
             "include_icon": false,
-            "icon": "pencil",
-            "color": "black"
-          }
-        },
-        {
-          "button": {
-            "type": "anchor",
-            "style": "secondary",
-            "label": "Patient Form (Adult) PDF",
-            "aria_label": "patient form adult pdf",
-            "href": "https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/files/health%20history(3).pdf",
-            "path": "",
-            "hash": "",
-            "external": true,
-            "include_icon": false,
-            "icon": "pencil",
+            "icon": "tooth-outline",
             "color": "black"
           }
         }
@@ -1605,7 +2464,7 @@
       "use_video": false,
       "large_image": false,
       "has_background": false,
-      "background": "bg2",
+      "background": "bg1",
       "linear_gradient": "",
       "add_texture": false,
       "large_title": false,
@@ -1614,7 +2473,7 @@
     },
     {
       "acf_fc_layout": "multi_use_banner",
-      "title": "Ready to get started?",
+      "title": "Schedule an Appointment",
       "content_block": "text_block",
       "text": "",
       "social_links": [],
@@ -1643,9 +2502,9 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/84442233_Father_With_Daughter_At_Reception_Of_Dentists_Surg.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/84442233_Father_With_Daughter_At_Reception_Of_Dentists_Surg.webp",
-        "alt": "Enjoying time together",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/200255059_Young_beautiful_female_student_using_touch_pad_at.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/200255059_Young_beautiful_female_student_using_touch_pad_at.webp",
+        "alt": "Schedule an appointment at Rutgers School of Dental Medicine clinics",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1653,9 +2512,7 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "New Patients Hero"
-        }
+        "image_selection_hints": null
       },
       "reversed": false,
       "centered": true,
@@ -1664,15 +2521,15 @@
     },
     {
       "seo": {
-        "page_title": "Get Started | TA Orthodontics",
-        "page_description": "Start your orthodontic journey: learn what to expect at your first visit, access patient forms, review payment options, and book a free consultation.",
-        "page_keywords": "orthodontics, new patient, patient forms, financing, consultation, TA Orthodontics",
+        "page_title": "Get Started | Orthodontic Care",
+        "page_description": "Start your orthodontic journey. Learn what to expect at your first visit, access new patient forms, and schedule a complimentary consultation today.",
+        "page_keywords": "orthodontics, new patient, first visit, patient forms, financing",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "Get Started | TA Orthodontics",
-            "description": "Start your orthodontic journey: learn what to expect at your first visit, access patient forms, review payment options, and book a free consultation.",
-            "image": "https://d2jdm9a19iwpm4.cloudfront.net/get-started/get-started-hero-v2.jpg"
+            "title": "Get Started | Orthodontic Care",
+            "description": "Start your orthodontic journey. Learn what to expect at your first visit, access new patient forms, and schedule a complimentary consultation today.",
+            "image": "https://d25xczrsvvsqdg.cloudfront.net/bvweyes-blog-hero-2.jpg"
           }
         }
       }
@@ -1693,14 +2550,14 @@
         "hash": "#form",
         "external": false,
         "include_icon": false,
-        "icon": "pencil",
+        "icon": "phone",
         "color": "primary"
       },
       "media_type": "image",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/16042402_opened_mouth_and_dentists_hands_with_instruments.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/16042402_opened_mouth_and_dentists_hands_with_instruments.webp",
-        "alt": "Orthodontic treatment overview with smiling patients in a bright clinic",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/48850703_Teenage_girl_happy_to_visit_the_dentist.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/48850703_Teenage_girl_happy_to_visit_the_dentist.webp",
+        "alt": "Smiling patients of all ages at Lakeshore Orthodontics",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -1721,286 +2578,19 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Early/interceptive treatment for children",
+      "title": "Dentures & Prosthodontics",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Early treatment, often called Phase One, typically begins around age eight to nine with follow-up Phase Two around age 11 and up. The goal is to guide jaw growth, correct bite issues early, and make room for permanent teeth so later treatment can be simpler and shorter."
-        }
-      ],
-      "accordion": [
-        {
-          "header": "When to start",
-          "paragraphs": [
-            {
-              "text": "The American Association of Orthodontists recommends an evaluation by age seven. We look for signs that early care could help, including crowding, crossbites, or a pronounced underbite."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/29222435_Cute_Latino_Girl_Smiling_with_Braces.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/29222435_Cute_Latino_Girl_Smiling_with_Braces.webp",
-            "alt": "Young patient receiving early orthodontic treatment",
-            "image_selection_hints": {
-              "context_category": "Kid"
-            }
-          }
-        },
-        {
-          "header": "What it corrects",
-          "paragraphs": [
-            {
-              "text": "Early care can guide jaw growth, address crossbites, severe crowding, protruding teeth and space issues, and reduce problems caused by prolonged thumb sucking."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/491614289_Model_of_jaw_with_braces_on_blue_background.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/491614289_Model_of_jaw_with_braces_on_blue_background.webp",
-            "alt": "Orthodontist consulting with a child and parent about early treatment",
-            "image_selection_hints": {
-              "context_category": "Initial Visit"
-            }
-          }
-        },
-        {
-          "header": "Benefits",
-          "paragraphs": [
-            {
-              "text": "Starting early can reduce the need for extractions or jaw surgery later, create space for permanent teeth, shorten future treatment time, and improve function like chewing and speech sooner."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/29456065_Hispanic_Father_Hugging_Kids.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/29456065_Hispanic_Father_Hugging_Kids.webp",
-            "alt": "Smiling child after early orthodontic treatment",
-            "image_selection_hints": {
-              "context_category": "Kid friendly"
-            }
-          }
-        }
-      ],
-      "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/49630490_Smiling_girl_holding_braces_for_teeth.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/49630490_Smiling_girl_holding_braces_for_teeth.webp",
-        "alt": "Child receiving orthodontic evaluation in a modern clinic",
-        "aria_hidden": false,
-        "bgColor": "",
-        "imageBackground": false,
-        "addLoader": false,
-        "objectPosition": "",
-        "forceAlt": "",
-        "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Initial Visit"
-        }
-      },
-      "video": {
-        "type": "embedded",
-        "src": ""
-      },
-      "buttons": [],
-      "component_options": {
-        "hash": "early-interceptive-treatment",
-        "component_padding": "half",
-        "component_margins": "none",
-        "hide_component": false
-      },
-      "reverse": false,
-      "has_buttons": false,
-      "has_accordion": true,
-      "is_dynamic": false,
-      "use_video": false,
-      "large_image": false,
-      "has_background": false,
-      "background": "bg1",
-      "linear_gradient": "",
-      "add_texture": false,
-      "large_title": false,
-      "title_color": "text",
-      "title_underline_color": "none"
-    },
-    {
-      "acf_fc_layout": "image_text",
-      "title": "Adult orthodontic options — It’s never too late",
-      "paragraphs": [
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "Many adults are excellent candidates for orthodontic care. Modern techniques offer discreet options that fit adult lifestyles while improving function, hygiene, and smile appearance."
-        }
-      ],
-      "accordion": [
-        {
-          "header": "Discreet options",
-          "paragraphs": [
-            {
-              "text": "We offer clear aligners like Invisalign<sup>®</sup>, ceramic (clear) braces, and lower-profile metal braces with smaller brackets. For minor tooth movement, retainers can sometimes correct small concerns."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/163056473_Glad_girl_using_orthodontic_device_for_adjusting_t.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/163056473_Glad_girl_using_orthodontic_device_for_adjusting_t.webp",
-            "alt": "Adult patient smiling after orthodontic treatment",
-            "image_selection_hints": {
-              "context_category": "Adult"
-            }
-          }
-        },
-        {
-          "header": "Expectations and coordination",
-          "paragraphs": [
-            {
-              "text": "Adult treatment times vary and may require coordination with periodontal care, restorative work, or, rarely, surgery. We plan treatments to minimize disruption and protect oral health."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/606463645_Dentist_mirror_and_woman_check_smile_after_teeth_c.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/606463645_Dentist_mirror_and_woman_check_smile_after_teeth_c.webp",
-            "alt": "Orthodontist reviewing adult treatment options with patient",
-            "image_selection_hints": {
-              "context_category": "Adult"
-            }
-          }
-        }
-      ],
-      "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/211024714_Beautiful_Patient_Holding_Clear_Orthodontic_Aligne.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/211024714_Beautiful_Patient_Holding_Clear_Orthodontic_Aligne.webp",
-        "alt": "Adult patient consulting about orthodontic options",
-        "aria_hidden": false,
-        "bgColor": "",
-        "imageBackground": false,
-        "addLoader": false,
-        "objectPosition": "",
-        "forceAlt": "",
-        "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Adult"
-        }
-      },
-      "video": {
-        "type": "embedded",
-        "src": ""
-      },
-      "buttons": [],
-      "component_options": {
-        "hash": "adult-orthodontic-options",
-        "component_padding": "half",
-        "component_margins": "none",
-        "hide_component": false
-      },
-      "reverse": true,
-      "has_buttons": false,
-      "has_accordion": true,
-      "is_dynamic": false,
-      "use_video": false,
-      "large_image": false,
-      "has_background": false,
-      "background": "bg1",
-      "linear_gradient": "",
-      "add_texture": false,
-      "large_title": false,
-      "title_color": "text",
-      "title_underline_color": "none"
-    },
-    {
-      "acf_fc_layout": "image_text",
-      "title": "Traditional (metal) and ceramic braces",
-      "paragraphs": [],
-      "accordion": [
-        {
-          "header": "Traditional Metal Braces",
-          "paragraphs": [
-            {
-              "text": "Metal brackets bonded to the teeth use archwires to apply gentle, continuous force and move teeth into place. They are durable and effective for a wide range of problems."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/81317876_Braces_Teeth_Female_Smile.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/81317876_Braces_Teeth_Female_Smile.webp",
-            "alt": "Patient with traditional metal braces",
-            "image_selection_hints": {
-              "context_category": "Teen"
-            }
-          }
-        },
-        {
-          "header": "Ceramic Braces",
-          "paragraphs": [
-            {
-              "text": "Ceramic brackets blend with tooth color for a less noticeable option while providing effective tooth movement. They may require extra attention to hygiene and care."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/180646541_Healthy_smile_woman_with_clear_brackets.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/180646541_Healthy_smile_woman_with_clear_brackets.webp",
-            "alt": "Close-up of ceramic braces on teeth",
-            "image_selection_hints": {
-              "context_category": "Teen"
-            }
-          }
-        }
-      ],
-      "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/48486569_teeth_with_braces.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/48486569_teeth_with_braces.webp",
-        "alt": "Two smiling teens showing braces",
-        "aria_hidden": false,
-        "bgColor": "",
-        "imageBackground": false,
-        "addLoader": false,
-        "objectPosition": "",
-        "forceAlt": "",
-        "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Treatments Hero"
-        }
-      },
-      "video": {
-        "type": "embedded",
-        "src": ""
-      },
-      "buttons": [],
-      "component_options": {
-        "hash": "braces",
-        "component_padding": "half",
-        "component_margins": "none",
-        "hide_component": false
-      },
-      "reverse": false,
-      "has_buttons": false,
-      "has_accordion": true,
-      "is_dynamic": false,
-      "use_video": false,
-      "large_image": false,
-      "has_background": true,
-      "background": "bg1",
-      "linear_gradient": "",
-      "add_texture": false,
-      "large_title": false,
-      "title_color": "text",
-      "title_underline_color": "none"
-    },
-    {
-      "acf_fc_layout": "image_text",
-      "title": "Invisalign<sup>®</sup> clear aligners",
-      "paragraphs": [
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "Invisalign<sup>®</sup> uses advanced 3D imaging and a series of custom clear aligners to move teeth incrementally. Aligners are removable for eating and hygiene, and treatment is planned and previewed digitally."
-        },
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "Candidates include people with crowding, spacing, and many bite issues. Appointments are often less frequent and the aligners use SmartTrack material and SmartForce features to maintain precise control of movement."
+          "text": "Custom dentures and prosthodontic care restore chewing, speech, and confidence when teeth are missing. We focus on comfortable, durable options and follow-up care so prosthetics stay comfortable over time."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/251234585_Portrait_of_beautiful_Asian_patient_woman_holding.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/251234585_Portrait_of_beautiful_Asian_patient_woman_holding.webp",
-        "alt": "Close-up of clear Invisalign aligner on teeth",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/286244869_dentist_with_tooth_model_in_dental_office_or_clini.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/286244869_dentist_with_tooth_model_in_dental_office_or_clini.webp",
+        "alt": "Smiling family enjoying time together",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -2009,7 +2599,7 @@
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
-          "context_category": "Teen"
+          "context_category": "Prosthodontics"
         }
       },
       "video": {
@@ -2018,7 +2608,58 @@
       },
       "buttons": [],
       "component_options": {
-        "hash": "invisalign",
+        "hash": "dentures",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": false,
+      "has_buttons": false,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": false,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "none"
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Pediatric Dentures",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Pediatric dentures provide a comfortable, temporary solution for children with missing or underdeveloped teeth. We custom-fit each appliance and plan periodic refits as the child grows, with long-term goals in mind."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/435338394_Smiling_little_child_girl_holds_metal_bright_and_c.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/435338394_Smiling_little_child_girl_holds_metal_bright_and_c.webp",
+        "alt": "Young patient holding a retainer and smiling",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "Kid"
+        }
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [],
+      "component_options": {
+        "hash": "pediatric-dentures",
         "component_padding": "half",
         "component_margins": "none",
         "hide_component": false
@@ -2039,24 +2680,205 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Surgical orthodontics (jaw surgery)",
+      "title": "Pediatric Preventive Care",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "Orthognathic surgery may be recommended for significant jaw discrepancies where tooth movement alone cannot achieve a stable, functional bite. Adults with skeletal malocclusions sometimes need combined surgical and orthodontic care."
-        },
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "The process includes comprehensive evaluation and imaging, pre-surgical orthodontics to align the teeth, coordinated surgery with an oral and maxillofacial surgeon, and post-surgical orthodontics to finalize the bite."
+          "text": "Preventive care for children — including sealants, fluoride varnish, cleanings, and education — reduces cavities and sets healthy habits. Community programs help bring these services to kids who need them most."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/393180333_Dental_3d_scanner_monitor_in_the_dentists_office_S.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/393180333_Dental_3d_scanner_monitor_in_the_dentists_office_S.webp",
-        "alt": "Orthodontic team reviewing surgical planning images",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/318853771_The_dentist_tells_the_child_about_oral_hygiene_and.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/318853771_The_dentist_tells_the_child_about_oral_hygiene_and.webp",
+        "alt": "Modern pediatric dental clinic interior with kid-friendly decor",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "Initial Visit"
+        }
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [],
+      "component_options": {
+        "hash": "pediatric-preventive",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": false,
+      "has_buttons": false,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": false,
+      "background": "bg2",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "none"
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Orthodontic Braces",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Braces remain a reliable, effective way to correct bite and alignment issues. We offer modern metal and ceramic options and tailor treatment to each patient's goals and lifestyle."
+        }
+      ],
+      "accordion": [
+        {
+          "header": "Traditional Metal Braces",
+          "paragraphs": [
+            {
+              "text": "Durable and cost-effective, metal braces use brackets and wires to gently guide teeth into their proper position over time."
+            }
+          ],
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/1434442_happy_teen_girl_smiling.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/1434442_happy_teen_girl_smiling.webp",
+            "alt": "Dental Checkup with Braces",
+            "image_selection_hints": {
+              "context_category": "Teen"
+            }
+          }
+        },
+        {
+          "header": "Ceramic Braces",
+          "paragraphs": [
+            {
+              "text": "Ceramic brackets blend with tooth color for a less noticeable appearance while still delivering predictable results."
+            }
+          ],
+          "image": {
+            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/29222435_Cute_Latino_Girl_Smiling_with_Braces.jpg",
+            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/29222435_Cute_Latino_Girl_Smiling_with_Braces.webp",
+            "alt": "Smiling woman with clear aligner",
+            "image_selection_hints": {
+              "context_category": "Teen"
+            }
+          }
+        }
+      ],
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/81317876_Braces_Teeth_Female_Smile.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/81317876_Braces_Teeth_Female_Smile.webp",
+        "alt": "Two stylish smiling teens taking selfie with braces",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "Teen"
+        }
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [],
+      "component_options": {
+        "hash": "braces",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": true,
+      "has_buttons": false,
+      "has_accordion": true,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": true,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "none"
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Temporary Anchorage Devices",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Temporary anchorage devices, or mini-implants, give orthodontists stable points to move teeth that would otherwise be difficult to correct. They are placed and removed as part of a carefully planned treatment."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/185901934_orthodontic_miniscrew_in_model.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/185901934_orthodontic_miniscrew_in_model.webp",
+        "alt": "Orthodontic consultation with surgical planning materials",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "Treatments Hero"
+        }
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [],
+      "component_options": {
+        "hash": "temporary-anchorage-devices",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": false,
+      "has_buttons": false,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": false,
+      "background": "bg1",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "none"
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Orthognathic Surgery",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "When jaw discrepancies affect chewing, speech, or facial balance, orthognathic surgery and orthodontics are planned together for the best outcome. Our team coordinates closely with oral surgeons to deliver precise, functional results."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/255770837_Young_lady_discussing_her_dental_problems_with_den.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/255770837_Young_lady_discussing_her_dental_problems_with_den.webp",
+        "alt": "Orthodontic patient receiving orthognathic surgical consultation",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -2079,7 +2901,7 @@
         "component_margins": "none",
         "hide_component": false
       },
-      "reverse": false,
+      "reverse": true,
       "has_buttons": false,
       "has_accordion": false,
       "is_dynamic": false,
@@ -2095,24 +2917,19 @@
     },
     {
       "acf_fc_layout": "image_text",
-      "title": "Retainers and maintaining results",
+      "title": "LANAP Laser Periodontal",
       "paragraphs": [
         {
           "has_heading": false,
           "heading": "",
-          "text": "After active treatment, retainers preserve alignment. We provide removable Essix-style retainers, traditional acrylic-and-wire retainers, and fixed bonded retainers depending on your needs."
-        },
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "Wear schedules vary by case: often full-time initially, then nightly. Good oral hygiene, regular dental cleanings, and following retainer instructions are essential to protect your investment."
+          "text": "LANAP is a laser protocol for treating advanced gum disease that often reduces bleeding, swelling, and recovery time compared with traditional surgery. It is an FDA-cleared approach that can be part of a conservative treatment plan for periodontal disease."
         }
       ],
       "accordion": [],
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/62056177_Hand_holding_a_translucent_upper_essix_retainer.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/62056177_Hand_holding_a_translucent_upper_essix_retainer.webp",
-        "alt": "Patient holding a clear retainer",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/20723079_Dental_Laser_Zahnbehandlung_Zahnfleisch.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/20723079_Dental_Laser_Zahnbehandlung_Zahnfleisch.webp",
+        "alt": "Digital scanner and modern periodontal technology in a treatment room",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -2121,7 +2938,7 @@
         "forceAlt": "",
         "loading_mask": "",
         "image_selection_hints": {
-          "context_category": "Restorative Treatments"
+          "context_category": "Gentle"
         }
       },
       "video": {
@@ -2130,7 +2947,58 @@
       },
       "buttons": [],
       "component_options": {
-        "hash": "retainers",
+        "hash": "lanap",
+        "component_padding": "half",
+        "component_margins": "none",
+        "hide_component": false
+      },
+      "reverse": false,
+      "has_buttons": false,
+      "has_accordion": false,
+      "is_dynamic": false,
+      "use_video": false,
+      "large_image": false,
+      "has_background": false,
+      "background": "bg2",
+      "linear_gradient": "",
+      "add_texture": false,
+      "large_title": false,
+      "title_color": "text",
+      "title_underline_color": "none"
+    },
+    {
+      "acf_fc_layout": "image_text",
+      "title": "Cleft Lip & Palate Surgery",
+      "paragraphs": [
+        {
+          "has_heading": false,
+          "heading": "",
+          "text": "Cleft lip and palate care requires a team approach that includes surgeons, orthodontists, and speech specialists. We support coordinated repair and long-term follow-up to help children eat, speak, and grow with confidence."
+        }
+      ],
+      "accordion": [],
+      "image": {
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/280865013_Portrait_of_smiling_Asian_girl_sitting_in_dental_c.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/280865013_Portrait_of_smiling_Asian_girl_sitting_in_dental_c.webp",
+        "alt": "Surgical consultation setting for multidisciplinary cleft care",
+        "aria_hidden": false,
+        "bgColor": "",
+        "imageBackground": false,
+        "addLoader": false,
+        "objectPosition": "",
+        "forceAlt": "",
+        "loading_mask": "",
+        "image_selection_hints": {
+          "context_category": "Surgery"
+        }
+      },
+      "video": {
+        "type": "embedded",
+        "src": ""
+      },
+      "buttons": [],
+      "component_options": {
+        "hash": "cleft-lip-palate",
         "component_padding": "half",
         "component_margins": "none",
         "hide_component": false
@@ -2150,108 +3018,8 @@
       "title_underline_color": "none"
     },
     {
-      "acf_fc_layout": "image_text",
-      "title": "Advanced technology — 3D scanning and imaging",
-      "paragraphs": [
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "We use digital tools like iTero scanners, 3D treatment planning, and digital X-rays to improve precision and comfort. Digital scans replace messy impressions and help visualize your treatment outcome."
-        }
-      ],
-      "accordion": [
-        {
-          "header": "iTero digital scanning",
-          "paragraphs": [
-            {
-              "text": "Fast, radiation-free scans capture accurate 3D images for aligners and treatment planning."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/175504582_Dental_3d_scanner_and_monitor_in_the_dentists_offi.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/175504582_Dental_3d_scanner_and_monitor_in_the_dentists_offi.webp",
-            "alt": "Digital intraoral scanner in use",
-            "image_selection_hints": {
-              "context_category": "Technology"
-            }
-          }
-        },
-        {
-          "header": "3D treatment planning",
-          "paragraphs": [
-            {
-              "text": "Advanced software simulates each stage of tooth movement so you can preview results before treatment begins."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/167612220_Young_woman_patient_standing_in_x-ray_machine.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/167612220_Young_woman_patient_standing_in_x-ray_machine.webp",
-            "alt": "3D orthodontic treatment planning on a computer screen",
-            "image_selection_hints": {
-              "context_category": "Better Care"
-            }
-          }
-        },
-        {
-          "header": "Digital X-rays",
-          "paragraphs": [
-            {
-              "text": "High-resolution digital radiography and 3D imaging support accurate diagnosis while minimizing radiation exposure."
-            }
-          ],
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/1120060139_A_3D_dental_model_displayed_on_a_computer_screen_h.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/1120060139_A_3D_dental_model_displayed_on_a_computer_screen_h.webp",
-            "alt": "Digital X-ray equipment used in orthodontic diagnosis",
-            "image_selection_hints": {
-              "context_category": "Technology"
-            }
-          }
-        }
-      ],
-      "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/241877737_Dentist_with_young_woman_assistant_working_with_co.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/241877737_Dentist_with_young_woman_assistant_working_with_co.webp",
-        "alt": "Modern orthodontic technology and equipment in a treatment room",
-        "aria_hidden": false,
-        "bgColor": "",
-        "imageBackground": false,
-        "addLoader": false,
-        "objectPosition": "",
-        "forceAlt": "",
-        "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Advanced Technology"
-        }
-      },
-      "video": {
-        "type": "embedded",
-        "src": ""
-      },
-      "buttons": [],
-      "component_options": {
-        "hash": "advanced-technology",
-        "component_padding": "half",
-        "component_margins": "none",
-        "hide_component": false
-      },
-      "reverse": false,
-      "has_buttons": false,
-      "has_accordion": true,
-      "is_dynamic": false,
-      "use_video": false,
-      "large_image": false,
-      "has_background": false,
-      "background": "bg1",
-      "linear_gradient": "",
-      "add_texture": false,
-      "large_title": false,
-      "title_color": "text",
-      "title_underline_color": "none"
-    },
-    {
       "acf_fc_layout": "multi_use_banner",
-      "title": "Ready to get started?",
+      "title": "Schedule an Appointment",
       "content_block": "text_block",
       "text": "",
       "social_links": [],
@@ -2280,9 +3048,9 @@
       "add_texture": false,
       "linear_gradient": "",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/316558318_young_beautiful_lady_with_blond_short_hair_sit_in.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/316558318_young_beautiful_lady_with_blond_short_hair_sit_in.webp",
-        "alt": "Enjoying time together",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/285911421_Client_of_private_dentistry_smiling_while_singing.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/285911421_Client_of_private_dentistry_smiling_while_singing.webp",
+        "alt": "Schedule an appointment at Rutgers School of Dental Medicine clinics",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -2290,9 +3058,7 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "New Patients Hero"
-        }
+        "image_selection_hints": null
       },
       "reversed": false,
       "centered": true,
@@ -2301,15 +3067,15 @@
     },
     {
       "seo": {
-        "page_title": "Treatments | TA Orthodontics",
-        "page_description": "Explore orthodontic treatments for all ages: early care, braces, Invisalign®, surgical planning, retainers and advanced digital technology.",
-        "page_keywords": "orthodontics, braces, Invisalign, early treatment, retainers, orthognathic surgery, iTero, clear aligners",
+        "page_title": "Treatments | Lakeshore Orthodontics",
+        "page_description": "Discover Lakeshore Orthodontics' comprehensive treatments for all ages, from preventive pediatric care to dentures, braces, surgery, and laser periodontal care.",
+        "page_keywords": "dentures, pediatric dentistry, orthodontics, braces, orthognathic surgery, LANAP, cleft lip palate, preventive care",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "Treatments | TA Orthodontics",
-            "description": "Explore orthodontic treatments for all ages: early care, braces, Invisalign®, surgical planning, retainers and advanced digital technology.",
-            "image": "https://www.taortho.com/assets/images/treatment-01.jpg"
+            "title": "Treatments | Lakeshore Orthodontics",
+            "description": "Discover Lakeshore Orthodontics' comprehensive treatments for all ages, from preventive pediatric care to dentures, braces, surgery, and laser periodontal care.",
+            "image": "https://d2jdm9a19iwpm4.cloudfront.net/treatments/treatments-hero.jpg"
           }
         }
       }
@@ -2335,9 +3101,9 @@
       },
       "media_type": "image",
       "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/285911421_Client_of_private_dentistry_smiling_while_singing.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/285911421_Client_of_private_dentistry_smiling_while_singing.webp",
-        "alt": "Tyska Alexander Orthodontics Clarence office exterior and reception area",
+        "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/600329009_Man_making_an_appointment_with_medical_staffs_at_r.jpg",
+        "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/600329009_Man_making_an_appointment_with_medical_staffs_at_r.webp",
+        "alt": "Bright dental reception area with staff member speaking to a patient",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -2345,9 +3111,7 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "Contact Hero"
-        }
+        "image_selection_hints": null
       },
       "video": {
         "src": "",
@@ -2358,7 +3122,7 @@
     },
     {
       "acf_fc_layout": "map",
-      "title": "Our Location",
+      "title": "How to Reach Us",
       "component_options": {
         "hash": "",
         "component_padding": "half",
@@ -2384,15 +3148,15 @@
     },
     {
       "seo": {
-        "page_title": "Contact Tyska Alexander Orthodontics | Clarence & Tonawanda Orthodontist",
-        "page_description": "Contact Tyska Alexander Orthodontics in Clarence and Tonawanda. Call (716) 759-8323, email info@taortho.com, or request an appointment online.",
-        "page_keywords": "Tyska Alexander Orthodontics contact, Clarence orthodontist, Tonawanda orthodontist, appointment, patient forms",
+        "page_title": "Contact University Dental Center at Somerdale | Rutgers SDM",
+        "page_description": "Contact the University Dental Center at Somerdale. Call (856) 566-6969 or visit 13 Somerdale Square, Somerdale, NJ. Hours Mon–Fri 8:30 a.m.–5:00 p.m.",
+        "page_keywords": "University Dental Center Somerdale, Rutgers SDM contact, dental appointment Somerdale, dental clinic Somerdale NJ",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "Contact Tyska Alexander Orthodontics | Clarence & Tonawanda Orthodontist",
-            "description": "Contact Tyska Alexander Orthodontics in Clarence and Tonawanda. Call (716) 759-8323, email info@taortho.com, or request an appointment online.",
-            "image": "https://www.taortho.com/assets/uploads/images/clarence-office.jpg"
+            "title": "Contact University Dental Center at Somerdale | Rutgers SDM",
+            "description": "Contact the University Dental Center at Somerdale. Call (856) 566-6969 or visit 13 Somerdale Square, Somerdale, NJ. Hours Mon–Fri 8:30 a.m.–5:00 p.m.",
+            "image": "https://sdm.rutgers.edu/sites/default/files/styles/16x9_full_768_2x/public/2022-06/140501_hamerman_907.jpg?h=6f8e8448&itok=BVulL3g3"
           }
         }
       }
@@ -2420,7 +3184,7 @@
       "image": {
         "src": "https://d1tbkv3r7iprho.cloudfront.net/hero/479238532_Man_Dental_Teeth_Question_Mark.jpg",
         "webp": "https://d1tbkv3r7iprho.cloudfront.net/hero/479238532_Man_Dental_Teeth_Question_Mark.webp",
-        "alt": "Patient speaking with front desk about appointments in a bright orthodontic office",
+        "alt": "Patient smiling with orthodontic braces in our Emeryville office",
         "aria_hidden": false,
         "bgColor": "",
         "imageBackground": false,
@@ -2428,9 +3192,7 @@
         "objectPosition": "",
         "forceAlt": "",
         "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "FAQ Hero"
-        }
+        "image_selection_hints": null
       },
       "video": {
         "src": "",
@@ -2440,404 +3202,16 @@
       "small": true
     },
     {
-      "acf_fc_layout": "accordion",
-      "title": "FAQ",
-      "paragraphs": [
-        {
-          "has_heading": false,
-          "heading": "",
-          "text": "Find answers to common questions about orthodontic treatments, Invisalign<sup>®</sup>, appointment scheduling, patient forms, and payment options at Tyska Alexander Orthodontics."
-        }
-      ],
-      "accordion": [
-        {
-          "header": "What treatment options do you offer?",
-          "paragraphs": [
-            {
-              "text": "We offer a full range of orthodontic options including traditional metal braces, ceramic (clear) braces, Invisalign<sup>®</sup> clear aligners, retainers for minor movement, palatal expanders and other appliances. Your doctor will review options and recommend the best approach for your needs."
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/180646554_Womans_smile_with_clear_dental_braces_on_teeth.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/180646554_Womans_smile_with_clear_dental_braces_on_teeth.webp",
-            "alt": "Orthodontic consultation and treatment planning in a modern office",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Treatments Hero"
-            }
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "How does Invisalign work and how long does it take?",
-          "paragraphs": [
-            {
-              "text": "Invisalign<sup>®</sup> uses a series of clear, removable aligner trays made from SmartTrack material. A custom digital plan maps tooth movement; aligners are usually worn about 20–22 hours per day and checkups are typically every six weeks. Treatment length varies by case."
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/343321244_Young_beautiful_brunette_woman_holding_dental_alig.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/343321244_Young_beautiful_brunette_woman_holding_dental_alig.webp",
-            "alt": "Clear aligners on a model showing staged tooth movement",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Treatments Hero"
-            }
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "How long will orthodontic treatment take?",
-          "paragraphs": [
-            {
-              "text": "Treatment times vary by age, method and case severity. Typical ranges are about 1–3 years; early (interceptive) treatment for children can shorten overall time. Your doctor will estimate your treatment length during the consultation."
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/305918963_Smiling_happy_woman_mouth_with_tongue_and_braces_O.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/305918963_Smiling_happy_woman_mouth_with_tongue_and_braces_O.webp",
-            "alt": "Orthodontic treatment timeline explanation during a consultation",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Treatments Hero"
-            }
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "Do you offer surgical orthodontics if needed?",
-          "paragraphs": [
-            {
-              "text": "For adults with severe jaw discrepancies we coordinate orthognathic (jaw) surgery with an oral/maxillofacial surgeon. Braces are used before and after surgery to finalize the bite; we will discuss risks, recovery time and expected steps if surgery is recommended."
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://www.taortho.com/assets/uploads/images/appointment-request.jpg",
-            "webp": "",
-            "alt": "Orthodontist reviewing surgical treatment coordination with a patient",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "All Ages"
-            }
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "What do I need to know about visiting the dentist while in orthodontic care?",
-          "paragraphs": [
-            {
-              "text": "Continue visiting your family dentist every six months for cleanings and routine care while in orthodontic treatment. If extra dental work is needed, our offices will coordinate timing and care with your family dentist."
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/974226401_Clinic_patient_hands_writing_medical_documents_in.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/974226401_Clinic_patient_hands_writing_medical_documents_in.webp",
-            "alt": "Orthodontic team coordinating care with a family dentist",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Experienced"
-            }
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "How often will I have appointments during treatment?",
-          "paragraphs": [
-            {
-              "text": "Routine orthodontic follow-ups are usually scheduled about every 4–8 weeks, depending on the appliance and stage of treatment."
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://www.taortho.com/assets/uploads/images/appointment-request.jpg",
-            "webp": "",
-            "alt": "Patient returning for a routine orthodontic adjustment",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Initial Visit"
-            }
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "What are the basic care instructions (brushing, flossing, appliance care)?",
-          "paragraphs": [
-            {
-              "text": "Brush and floss carefully after meals. For braces use floss threaders or orthodontic floss; consider a water flosser if needed. For loose wires or irritation use orthodontic wax or rinse with warm salt water and contact the office for advice. For aligners, wear them 20–22 hours/day and remove only for eating and oral hygiene."
-            }
-          ],
-          "has_media": true,
-          "media_type": "image",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/232435916_Electronic_medical_record_with_patient_data_and_he.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/232435916_Electronic_medical_record_with_patient_data_and_he.webp",
-            "alt": "Brushing and flossing with braces",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Gentle"
-            }
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "What happens after my initial consultation?",
-          "paragraphs": [
-            {
-              "text": "After your consultation we’ll schedule your first appliance placement visit. The placement appointment typically takes about an hour. The doctor and team will be available to ensure your comfort."
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/486483782_Close_up_of_dentist_hand_using_dental_forceps_whil.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/486483782_Close_up_of_dentist_hand_using_dental_forceps_whil.webp",
-            "alt": "Orthodontic team preparing a patient for appliance placement",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Initial Visit"
-            }
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "What payment and insurance options do you accept?",
-          "paragraphs": [
-            {
-              "text": "Treatment cost depends on your individualized plan. The practice accepts most major credit cards and many insurance plans, and offers in‑house financing and low monthly payment plans. Office staff will help with insurance claims and paperwork."
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/624176181_Choose_the_right_insurance_Learn_more_about_insura.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/624176181_Choose_the_right_insurance_Learn_more_about_insura.webp",
-            "alt": "Front desk staff helping a patient with insurance and payment options",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Flexible Payments"
-            }
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "How can I schedule an appointment?",
-          "paragraphs": [
-            {
-              "text": "You can call either office or request an appointment online. Phone (Clarence office): (716) 759-8323. Phone (Tonawanda office): (716) 875-0405. Appointment request (online form): https://www.taortho.com/appointment-request."
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/459389900_Young_smiling_happy_couple_two_friends_family_man.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/459389900_Young_smiling_happy_couple_two_friends_family_man.webp",
-            "alt": "Patient calling to schedule an orthodontic appointment",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Contact Hero"
-            }
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        },
-        {
-          "header": "Where can I fill out new‑patient forms?",
-          "paragraphs": [
-            {
-              "text": "Patients can fill forms electronically here: https://patient.sesamecommunications.com/mandtortho/index.html. Printable PDFs (child and adult health history) are also available:\nChild Patient Form (PDF): https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/files/health%20history(2).pdf\nAdult Patient Form (PDF): https://www.taortho.com/hub_sites/macdonald-andrew2/www/assets/uploads/files/health%20history(3).pdf"
-            }
-          ],
-          "has_media": false,
-          "media_type": "image",
-          "image": {
-            "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/123911299_Male_hiker_holding_a_map_in_forest.jpg",
-            "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/123911299_Male_hiker_holding_a_map_in_forest.webp",
-            "alt": "Patient completing new patient forms on a tablet",
-            "aria_hidden": false,
-            "bgColor": "",
-            "imageBackground": false,
-            "addLoader": false,
-            "objectPosition": "",
-            "forceAlt": "",
-            "loading_mask": "",
-            "image_selection_hints": {
-              "context_category": "Initial Visit"
-            }
-          },
-          "video": {
-            "type": "embedded",
-            "src": ""
-          }
-        }
-      ],
-      "component_options": {
-        "hash": "",
-        "component_padding": "full",
-        "component_margins": "full",
-        "hide_component": false
-      }
-    },
-    {
-      "acf_fc_layout": "multi_use_banner",
-      "title": "Ready to get started?",
-      "content_block": "text_block",
-      "text": "",
-      "social_links": [],
-      "email": "",
-      "button": {
-        "type": "nuxt",
-        "style": "primary",
-        "label": "Schedule Consultation",
-        "aria_label": "Schedule a consultation",
-        "href": "",
-        "path": "/contact",
-        "hash": "#form",
-        "external": false,
-        "include_icon": false,
-        "icon": "",
-        "color": ""
-      },
-      "component_options": {
-        "hash": "",
-        "component_padding": "half",
-        "component_margins": "none",
-        "hide_component": false
-      },
-      "background_type": "has_background",
-      "background": "bg2",
-      "add_texture": false,
-      "linear_gradient": "",
-      "image": {
-        "src": "https://d1tbkv3r7iprho.cloudfront.net/standard/347651414_Modern_family_visiting_doctor_in_hospital.jpg",
-        "webp": "https://d1tbkv3r7iprho.cloudfront.net/standard/347651414_Modern_family_visiting_doctor_in_hospital.webp",
-        "alt": "Enjoying time together",
-        "aria_hidden": false,
-        "bgColor": "",
-        "imageBackground": false,
-        "addLoader": false,
-        "objectPosition": "",
-        "forceAlt": "",
-        "loading_mask": "",
-        "image_selection_hints": {
-          "context_category": "New Patients Hero"
-        }
-      },
-      "reversed": false,
-      "centered": true,
-      "large_title": true,
-      "text_color": "primary"
-    },
-    {
       "seo": {
-        "page_title": "FAQ | Tyska Alexander Orthodontics",
-        "page_description": "Answers to common questions about orthodontic treatments, scheduling, forms, and payment options at Tyska Alexander Orthodontics.",
-        "page_keywords": "orthodontics, braces, Invisalign, FAQ, Clarence, Tonawanda, patient forms",
+        "page_title": "FAQ | Lakeshore Orthodontics",
+        "page_description": "Find answers to common questions about orthodontic treatments, scheduling, and payment options at Lakeshore Orthodontics.",
+        "page_keywords": "orthodontics, braces, Invisalign, FAQ, payment plans, Lakeshore Orthodontics",
         "additional_settings": false,
         "social_meta": {
           "og_meta": {
-            "title": "FAQ | Tyska Alexander Orthodontics",
-            "description": "Answers to common questions about orthodontic treatments, scheduling, forms, and payment options at Tyska Alexander Orthodontics.",
-            "image": "https://www.taortho.com/assets/uploads/images/appointment-request.jpg"
+            "title": "FAQ | Lakeshore Orthodontics",
+            "description": "Find answers to common questions about orthodontic treatments, scheduling, and payment options at Lakeshore Orthodontics.",
+            "image": ""
           }
         }
       }
